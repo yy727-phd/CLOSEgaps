@@ -53,23 +53,26 @@ def combine_meta_rxns(reactions_index, reactions_metas, reactants_nums, reactant
 def create_neg_rxn(pos_rxn, pos_data_soucre, neg_data_soucre, balanced_atom=False, negative_ratio=1, atom_ratio=0.5):
     reactions_index, reactions_metas, reactants_nums, reactants_direction = get_coefficient_and_reactant(pos_rxn)
     neg_rxn_name_list = []
-    for i in tqdm(range(len(reactions_index) * negative_ratio)):
-        selected_atoms = math.floor(len(reactions_metas[i]) * atom_ratio)
-        assert selected_atoms > 0, "The number of selected atoms is zero"
-        index_value = random.sample(list(enumerate(reactions_metas[i])), selected_atoms)
-        for index, meta in index_value:
-            dup = True
-            count = pos_data_soucre[pos_data_soucre['name'] == meta]['count'].values[0]
-            while dup:
-                found_chebi_metas = neg_data_soucre[neg_data_soucre['count'] == count].sample(1)['name'].values[0]
-                if not balanced_atom:
-                    break
-                if found_chebi_metas not in reactions_metas[i]:
-                    dup = False
-            reactions_metas[i][index] = found_chebi_metas
-        neg_rxns = combine_meta_rxns(reactions_index[i], reactions_metas[i], reactants_nums[i],
-                                     reactants_direction[i])
-        neg_rxn_name_list.append(neg_rxns)
+    assert negative_ratio >= 1 and isinstance(negative_ratio, int)
+    for i in tqdm(range(len(reactions_index))):
+        for j in range(negative_ratio):
+            selected_atoms = math.floor(len(reactions_metas[i]) * atom_ratio)
+            assert selected_atoms > 0, "The number of selected atoms is zero"
+            index_value = random.sample(list(enumerate(reactions_metas[i])), selected_atoms)
+            for index, meta in index_value:
+                dup = True
+                count = pos_data_soucre[pos_data_soucre['name'] == meta]['count'].values[0]
+                while dup:
+                    found_chebi_metas = neg_data_soucre[neg_data_soucre['count'] == count].sample(1)['name'].values[0]
+                    if not balanced_atom:
+                        break
+                    if found_chebi_metas not in reactions_metas[i]:
+                        dup = False
+                neg_metas = reactions_metas[i].copy()
+                neg_metas[index] = found_chebi_metas
+            neg_rxns = combine_meta_rxns(reactions_index[i], neg_metas, reactants_nums[i],
+                                         reactants_direction[i])
+            neg_rxn_name_list.append(neg_rxns)
     return neg_rxn_name_list
 
 
