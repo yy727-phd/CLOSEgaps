@@ -1,0 +1,1406 @@
+,medium,description,bigg,name,vmh,modelseed,flux
+0,TSB,Tryptic soy broth,h2o,H2O,h2o,cpd00001,100.0
+1,TSB,Tryptic soy broth,o2,O2,o2,cpd00007,100.0
+2,TSB,Tryptic soy broth,co2,CO2,co2,cpd00011,100.0
+3,TSB,Tryptic soy broth,glc__D,D-Glucose,glc_D,cpd00027,13.88
+4,TSB,Tryptic soy broth,sucr,Sucrose,sucr,cpd00076,0.4382120947
+5,TSB,Tryptic soy broth,stys,Stachyose,stys,cpd01133,0.1800239432
+6,TSB,Tryptic soy broth,raffin,Melitose,raffin,cpd00382,0.0594721254
+7,TSB,Tryptic soy broth,starch,Starch,starch,cpd11657,0.1850246021
+8,TSB,Tryptic soy broth,mannan,mannan,mannan,cpd11746,1.4801968168
+9,TSB,Tryptic soy broth,pectin,Pectin,pectin,cpd11601,3.3996260411
+10,TSB,Tryptic soy broth,ala__L,L-Alanine,ala_L,cpd00035,5.9870931538
+11,TSB,Tryptic soy broth,arg__L,L-Arginine,arg_L,cpd00051,3.861021814
+12,TSB,Tryptic soy broth,asp__L,L-Aspartate,asp_L,cpd00041,9.1987978963
+13,TSB,Tryptic soy broth,cys__L,L-Cysteine,cys_L,cpd00084,0.5829207921
+14,TSB,Tryptic soy broth,glu__L,L-Glutamate,glu_L,cpd00023,25.2972127804
+15,TSB,Tryptic soy broth,gly,Glycine,gly,cpd00033,4.3728362184
+16,TSB,Tryptic soy broth,his__L,L-Histidine,his_L,cpd00119,3.0599871134
+17,TSB,Tryptic soy broth,ile__L,L-Isoleucine,ile_L,cpd00322,7.1884908537
+18,TSB,Tryptic soy broth,leu__L,L-Leucine,leu_L,cpd00107,11.3816310976
+19,TSB,Tryptic soy broth,lys__L,L-Lysine,lys_L,cpd00039,8.9273597811
+20,TSB,Tryptic soy broth,met__L,L-Methionine,met_L,cpd00060,2.8445710456
+21,TSB,Tryptic soy broth,phe__L,L-Phenylalanine,phe_L,cpd00066,5.0161016949
+22,TSB,Tryptic soy broth,pro__L,L-Proline,pro_L,cpd00129,14.6513466551
+23,TSB,Tryptic soy broth,ser__L,L-Serine,ser_L,cpd00054,8.7603235014
+24,TSB,Tryptic soy broth,thr__L,L-Threonine,thr_L,cpd00161,6.0115869018
+25,TSB,Tryptic soy broth,trp__L,L-Tryptophan,trp_L,cpd00065,1.0025954946
+26,TSB,Tryptic soy broth,tyr__L,L-Tyrosine,tyr_L,cpd00069,4.6642935982
+27,TSB,Tryptic soy broth,val__L,L-Valine,val_L,cpd00156,9.2303159693
+28,TSB,Tryptic soy broth,ca2,Ca2+,ca2,cpd00063,0.2921802485
+29,TSB,Tryptic soy broth,pi,Phosphate,pi,cpd00009,1.6543927961
+30,TSB,Tryptic soy broth,na1,Na+,na1,cpd00971,0.76558354
+31,TSB,Tryptic soy broth,k,K+,k,cpd00205,1.4223233925
+32,TSB,Tryptic soy broth,mg2,Mg,mg2,cpd00254,0.3457624769
+33,TSB,Tryptic soy broth,fe2,Fe2+,fe2,cpd10515,0.844607808
+34,TSB,Tryptic soy broth,fe3,fe3,fe3,cpd10516,0.844607808
+35,TSB,Tryptic soy broth,cu2,Cu2+,cu2,cpd00058,0.7872879489
+36,TSB,Tryptic soy broth,zn2,Zn2+,zn2,cpd00034,0.232987152
+37,TSB,Tryptic soy broth,mn2,Mn2+,mn2,cpd00030,0.13753868
+38,TSB,Tryptic soy broth,fol,Folate,fol,cpd00393,0.2564114182
+39,TSB,Tryptic soy broth,thm,Thiamine,thm,cpd00305,0.9881288864
+40,TSB,Tryptic soy broth,ribflv,Riboflavin,ribflv,cpd00220,0.6934665356
+41,TSB,Tryptic soy broth,nac,Niacin,nac,cpd00218,0.3955018869
+42,TSB,Tryptic soy broth,pant__R,PAN,pant_R,cpd00644,0.1085112206
+43,TSB,Tryptic soy broth,pydx,Pyridoxal,pydx,cpd00215,0.457631645
+44,TSB,Tryptic soy broth,chol,Choline,chol,cpd00098,0.3337787557
+45,TSB,Tryptic soy broth,ascb__L,L-Ascorbate,ascb_L,cpd00059,0.1022030434
+46,TSB,Tryptic soy broth,gtocophe,Gamma-Tocopherol,gtocophe,cpd01631,0.6119804166
+47,TSB,Tryptic soy broth,phllqne,Vitamin K1,phllqne,cpd01401,0.3128466829
+48,TSB,Tryptic soy broth,cl,Cl-,cl,cpd00099,100.0
+49,TSB,Tryptic soy broth,h,H+,h,cpd00067,100.0
+50,TSB,Tryptic soy broth,cobalt2,Co2+,cobalt2,cpd00149,100.0
+51,TSB,Tryptic soy broth,pheme,Heme,pheme,cpd00028,0.1
+52,TSB,Tryptic soy broth,so4,Sulfate,so4,cpd00048,100.0
+53,TSB[-O2],Tryptic soy broth anaerobic,h2o,H2O,h2o,cpd00001,100.0
+54,TSB[-O2],Tryptic soy broth anaerobic,o2,O2,o2,cpd00007,100.0
+55,TSB[-O2],Tryptic soy broth anaerobic,co2,CO2,co2,cpd00011,100.0
+56,TSB[-O2],Tryptic soy broth anaerobic,glc__D,D-Glucose,glc_D,cpd00027,13.88
+57,TSB[-O2],Tryptic soy broth anaerobic,sucr,Sucrose,sucr,cpd00076,0.4382120947
+58,TSB[-O2],Tryptic soy broth anaerobic,stys,Stachyose,stys,cpd01133,0.1800239432
+59,TSB[-O2],Tryptic soy broth anaerobic,raffin,Melitose,raffin,cpd00382,0.0594721254
+60,TSB[-O2],Tryptic soy broth anaerobic,starch,Starch,starch,cpd11657,0.1850246021
+61,TSB[-O2],Tryptic soy broth anaerobic,mannan,mannan,mannan,cpd11746,1.4801968168
+62,TSB[-O2],Tryptic soy broth anaerobic,pectin,Pectin,pectin,cpd11601,3.3996260411
+63,TSB[-O2],Tryptic soy broth anaerobic,ala__L,L-Alanine,ala_L,cpd00035,5.9870931538
+64,TSB[-O2],Tryptic soy broth anaerobic,arg__L,L-Arginine,arg_L,cpd00051,3.861021814
+65,TSB[-O2],Tryptic soy broth anaerobic,asp__L,L-Aspartate,asp_L,cpd00041,9.1987978963
+66,TSB[-O2],Tryptic soy broth anaerobic,cys__L,L-Cysteine,cys_L,cpd00084,0.5829207921
+67,TSB[-O2],Tryptic soy broth anaerobic,glu__L,L-Glutamate,glu_L,cpd00023,25.2972127804
+68,TSB[-O2],Tryptic soy broth anaerobic,gly,Glycine,gly,cpd00033,4.3728362184
+69,TSB[-O2],Tryptic soy broth anaerobic,his__L,L-Histidine,his_L,cpd00119,3.0599871134
+70,TSB[-O2],Tryptic soy broth anaerobic,ile__L,L-Isoleucine,ile_L,cpd00322,7.1884908537
+71,TSB[-O2],Tryptic soy broth anaerobic,leu__L,L-Leucine,leu_L,cpd00107,11.3816310976
+72,TSB[-O2],Tryptic soy broth anaerobic,lys__L,L-Lysine,lys_L,cpd00039,8.9273597811
+73,TSB[-O2],Tryptic soy broth anaerobic,met__L,L-Methionine,met_L,cpd00060,2.8445710456
+74,TSB[-O2],Tryptic soy broth anaerobic,phe__L,L-Phenylalanine,phe_L,cpd00066,5.0161016949
+75,TSB[-O2],Tryptic soy broth anaerobic,pro__L,L-Proline,pro_L,cpd00129,14.6513466551
+76,TSB[-O2],Tryptic soy broth anaerobic,ser__L,L-Serine,ser_L,cpd00054,8.7603235014
+77,TSB[-O2],Tryptic soy broth anaerobic,thr__L,L-Threonine,thr_L,cpd00161,6.0115869018
+78,TSB[-O2],Tryptic soy broth anaerobic,trp__L,L-Tryptophan,trp_L,cpd00065,1.0025954946
+79,TSB[-O2],Tryptic soy broth anaerobic,tyr__L,L-Tyrosine,tyr_L,cpd00069,4.6642935982
+80,TSB[-O2],Tryptic soy broth anaerobic,val__L,L-Valine,val_L,cpd00156,9.2303159693
+81,TSB[-O2],Tryptic soy broth anaerobic,ca2,Ca2+,ca2,cpd00063,0.2921802485
+82,TSB[-O2],Tryptic soy broth anaerobic,pi,Phosphate,pi,cpd00009,1.6543927961
+83,TSB[-O2],Tryptic soy broth anaerobic,na1,Na+,na1,cpd00971,0.76558354
+84,TSB[-O2],Tryptic soy broth anaerobic,k,K+,k,cpd00205,1.4223233925
+85,TSB[-O2],Tryptic soy broth anaerobic,mg2,Mg,mg2,cpd00254,0.3457624769
+86,TSB[-O2],Tryptic soy broth anaerobic,fe2,Fe2+,fe2,cpd10515,0.844607808
+87,TSB[-O2],Tryptic soy broth anaerobic,fe3,fe3,fe3,cpd10516,0.844607808
+88,TSB[-O2],Tryptic soy broth anaerobic,cu2,Cu2+,cu2,cpd00058,0.7872879489
+89,TSB[-O2],Tryptic soy broth anaerobic,zn2,Zn2+,zn2,cpd00034,0.232987152
+90,TSB[-O2],Tryptic soy broth anaerobic,mn2,Mn2+,mn2,cpd00030,0.13753868
+91,TSB[-O2],Tryptic soy broth anaerobic,fol,Folate,fol,cpd00393,0.2564114182
+92,TSB[-O2],Tryptic soy broth anaerobic,thm,Thiamine,thm,cpd00305,0.9881288864
+93,TSB[-O2],Tryptic soy broth anaerobic,ribflv,Riboflavin,ribflv,cpd00220,0.6934665356
+94,TSB[-O2],Tryptic soy broth anaerobic,nac,Niacin,nac,cpd00218,0.3955018869
+95,TSB[-O2],Tryptic soy broth anaerobic,pant__R,PAN,pant_R,cpd00644,0.1085112206
+96,TSB[-O2],Tryptic soy broth anaerobic,pydx,Pyridoxal,pydx,cpd00215,0.457631645
+97,TSB[-O2],Tryptic soy broth anaerobic,chol,Choline,chol,cpd00098,0.3337787557
+98,TSB[-O2],Tryptic soy broth anaerobic,ascb__L,L-Ascorbate,ascb_L,cpd00059,0.1022030434
+99,TSB[-O2],Tryptic soy broth anaerobic,gtocophe,Gamma-Tocopherol,gtocophe,cpd01631,0.6119804166
+100,TSB[-O2],Tryptic soy broth anaerobic,phllqne,Vitamin K1,phllqne,cpd01401,0.3128466829
+101,TSB[-O2],Tryptic soy broth anaerobic,cl,Cl-,cl,cpd00099,100.0
+102,TSB[-O2],Tryptic soy broth anaerobic,h,H+,h,cpd00067,100.0
+103,TSB[-O2],Tryptic soy broth anaerobic,cobalt2,Co2+,cobalt2,cpd00149,100.0
+104,TSB[-O2],Tryptic soy broth anaerobic,pheme,Heme,pheme,cpd00028,0.1
+105,TSB[-O2],Tryptic soy broth anaerobic,so4,Sulfate,so4,cpd00048,100.0
+106,FT,Fermentation test medium,h2o,H2O,h2o,cpd00001,100.0
+107,FT,Fermentation test medium,pi,Phosphate,pi,cpd00009,100.0
+108,FT,Fermentation test medium,co2,CO2,co2,cpd00011,0.1
+109,FT,Fermentation test medium,nh4,NH3,nh4,cpd00013,100.0
+110,FT,Fermentation test medium,amp,AMP,amp,cpd00018,0.1
+111,FT,Fermentation test medium,glu__L,L-Glutamate,glu_L,cpd00023,0.1
+112,FT,Fermentation test medium,glc__D,D-Glucose,glc_D,cpd00027,3.0
+113,FT,Fermentation test medium,pheme,Heme,pheme,cpd00028,0.1
+114,FT,Fermentation test medium,ac,acetate,ac,cpd00029,3.0
+115,FT,Fermentation test medium,mn2,Mn2+,mn2,cpd00030,100.0
+116,FT,Fermentation test medium,gly,Glycine,gly,cpd00033,0.1
+117,FT,Fermentation test medium,zn2,Zn2+,zn2,cpd00034,100.0
+118,FT,Fermentation test medium,ala__L,L-Alanine,ala_L,cpd00035,0.5
+119,FT,Fermentation test medium,lys__L,L-Lysine,lys_L,cpd00039,0.1
+120,FT,Fermentation test medium,asp__L,L-Aspartate,asp_L,cpd00041,0.1
+121,FT,Fermentation test medium,cmp,CMP,cmp,cpd00046,0.1
+122,FT,Fermentation test medium,so4,Sulfate,so4,cpd00048,1.0
+123,FT,Fermentation test medium,arg__L,L-Arginine,arg_L,cpd00051,0.1
+124,FT,Fermentation test medium,ser__L,L-Serine,ser_L,cpd00054,0.1
+125,FT,Fermentation test medium,cu2,Cu2+,cu2,cpd00058,100.0
+126,FT,Fermentation test medium,met__L,L-Methionine,met_L,cpd00060,0.1
+127,FT,Fermentation test medium,ca2,Ca2+,ca2,cpd00063,100.0
+128,FT,Fermentation test medium,trp__L,L-Tryptophan,trp_L,cpd00065,0.1
+129,FT,Fermentation test medium,phe__L,L-Phenylalanine,phe_L,cpd00066,0.1
+130,FT,Fermentation test medium,h,H+,h,cpd00067,0.1
+131,FT,Fermentation test medium,tyr__L,L-Tyrosine,tyr_L,cpd00069,0.1
+132,FT,Fermentation test medium,cys__L,L-Cysteine,cys_L,cpd00084,0.1
+133,FT,Fermentation test medium,ump,UMP,ump,cpd00091,0.1
+134,FT,Fermentation test medium,ura,Uracil,ura,cpd00092,0.1
+135,FT,Fermentation test medium,cl,Cl-,cl,cpd00099,100.0
+136,FT,Fermentation test medium,leu__L,L-Leucine,leu_L,cpd00107,0.1
+137,FT,Fermentation test medium,his__L,L-Histidine,his_L,cpd00119,0.1
+138,FT,Fermentation test medium,gmp,GMP,gmp,cpd00126,0.1
+139,FT,Fermentation test medium,pro__L,L-Proline,pro_L,cpd00129,0.1
+140,FT,Fermentation test medium,ppa,propionate,ppa,cpd00141,0.1
+141,FT,Fermentation test medium,cobalt2,Co2+,cobalt2,cpd00149,100.0
+142,FT,Fermentation test medium,val__L,L-Valine,val_L,cpd00156,0.1
+143,FT,Fermentation test medium,lac__L,L-lactate,lac_L,cpd00159,1.5
+144,FT,Fermentation test medium,thr__L,L-Threonine,thr_L,cpd00161,0.1
+145,FT,Fermentation test medium,adn,Adenosine,adn,cpd00182,0.1
+146,FT,Fermentation test medium,thymd,Thymidine,thymd,cpd00184,0.1
+147,FT,Fermentation test medium,k,K+,k,cpd00205,100.0
+148,FT,Fermentation test medium,lcts,LACT,lcts,cpd00208,1.5
+149,FT,Fermentation test medium,but,butyrate,but,cpd00211,0.1
+150,FT,Fermentation test medium,pydx,Pyridoxal,pydx,cpd00215,0.1
+151,FT,Fermentation test medium,nac,Niacin,nac,cpd00218,0.1
+152,FT,Fermentation test medium,ribflv,Riboflavin,ribflv,cpd00220,0.1
+153,FT,Fermentation test medium,lac__D,D-lactate,lac_D,cpd00221,1.5
+154,FT,Fermentation test medium,hxan,HYXN,hxan,cpd00226,0.1
+155,FT,Fermentation test medium,h2s,H2S,h2s,cpd00239,0.1
+156,FT,Fermentation test medium,ins,Inosine,ins,cpd00246,0.1
+157,FT,Fermentation test medium,uri,Uridine,uri,cpd00249,0.1
+158,FT,Fermentation test medium,mg2,Mg,mg2,cpd00254,100.0
+159,FT,Fermentation test medium,thm,Thiamine,thm,cpd00305,0.1
+160,FT,Fermentation test medium,gsn,Guanosine,gsn,cpd00311,0.1
+161,FT,Fermentation test medium,ile__L,L-Isoleucine,ile_L,cpd00322,0.1
+162,FT,Fermentation test medium,etoh,ethanol,etoh,cpd00363,0.1
+163,FT,Fermentation test medium,fol,Folate,fol,cpd00393,0.1
+164,FT,Fermentation test medium,dad_2,Deoxyadenosine,dad_2,cpd00438,0.1
+165,FT,Fermentation test medium,hg2,Hg2+,hg2,cpd00531,100.0
+166,FT,Fermentation test medium,lipoate,Lipoate,lipoate,cpd00541,0.1
+167,FT,Fermentation test medium,pant__R,PAN,pant_R,cpd00644,0.1
+168,FT,Fermentation test medium,dcyt,Deoxycytidine,dcyt,cpd00654,0.1
+169,FT,Fermentation test medium,na1,Na+,na1,cpd00971,100.0
+170,FT,Fermentation test medium,cd2,Cd2+,cd2,cpd01012,100.0
+171,FT,Fermentation test medium,aso4,Arsenate,aso4,cpd01048,100.0
+172,FT,Fermentation test medium,cbl1,Vitamin B12,cbl1,cpd03424,0.1
+173,FT,Fermentation test medium,fe2,Fe2+,fe2,cpd10515,100.0
+174,FT,Fermentation test medium,fe3,fe3,fe3,cpd10516,0.5
+175,FT,Fermentation test medium,cro4,chromate,cro4,cpd11595,100.0
+176,FT,Fermentation test medium,mobd,Molybdate,mobd,cpd11574,0.01
+177,FT,Fermentation test medium,sheme,Siroheme,sheme,cpd00557,0.01
+178,AGORA_WD,Standard constraints for western diet in AGORA,12dgr180,"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",12dgr180,cpd15311,1.0
+179,AGORA_WD,Standard constraints for western diet in AGORA,26dap__M,"meso-2,6-Diaminoheptanedioate",26dap_M,cpd00516,1.0
+180,AGORA_WD,Standard constraints for western diet in AGORA,2dmmq8,2-Demethylmenaquinone 8,2dmmq8,cpd15352,1.0
+181,AGORA_WD,Standard constraints for western diet in AGORA,2obut,2-Oxobutanoate,2obut,cpd00094,1.0
+182,AGORA_WD,Standard constraints for western diet in AGORA,3mop,3-methyl-2-oxopentanoate,3mop,cpd00508,1.0
+183,AGORA_WD,Standard constraints for western diet in AGORA,4abz,4 Aminobenzoate,4abz,cpd00443,1.0
+184,AGORA_WD,Standard constraints for western diet in AGORA,4hbz,4-Hydroxybenzoate,4hbz,cpd00136,1.0
+185,AGORA_WD,Standard constraints for western diet in AGORA,ac,acetate,ac,cpd00029,1.0
+186,AGORA_WD,Standard constraints for western diet in AGORA,acgam,N-Acetyl-D-glucosamine,acgam,cpd00122,1.0
+187,AGORA_WD,Standard constraints for western diet in AGORA,acmana,N-acetyl-D-mannosamine,acmana,cpd00492,1.0
+188,AGORA_WD,Standard constraints for western diet in AGORA,acnam,N-Acetylneuraminate,acnam,cpd00232,1.0
+189,AGORA_WD,Standard constraints for western diet in AGORA,ade,Adenine,ade,cpd00128,1.0
+190,AGORA_WD,Standard constraints for western diet in AGORA,adn,Adenosine,adn,cpd00182,1.0
+191,AGORA_WD,Standard constraints for western diet in AGORA,adocbl,Adenosylcobalamin,adpcbl,cpd00166,1.0
+192,AGORA_WD,Standard constraints for western diet in AGORA,ala__D,D-Alanine,ala_D,cpd00117,1.0
+193,AGORA_WD,Standard constraints for western diet in AGORA,ala__L,L-Alanine,ala_L,cpd00035,1.0
+194,AGORA_WD,Standard constraints for western diet in AGORA,amet,S-Adenosyl-L-methionine,amet,cpd00017,1.0
+195,AGORA_WD,Standard constraints for western diet in AGORA,amp,AMP,amp,cpd00018,1.0
+196,AGORA_WD,Standard constraints for western diet in AGORA,,Amylopectin (900 glucose units),amylopect900,cpd00265,1.56731e-05
+197,AGORA_WD,Standard constraints for western diet in AGORA,amylose300,Amylose,amylose300,cpd11735,4.70194e-05
+198,AGORA_WD,Standard constraints for western diet in AGORA,arab__D,D-Arabinose,arab_D,cpd00185,1.0
+199,AGORA_WD,Standard constraints for western diet in AGORA,arab__L,L-Arabinose,arab_L,cpd19109,0.178783
+200,AGORA_WD,Standard constraints for western diet in AGORA,arabinan,Arabinan,arabinan101,cpd15928,0.000166277
+201,AGORA_WD,Standard constraints for western diet in AGORA,,Larch arabinogalactan,arabinogal,cpd11699,2.19148e-05
+202,AGORA_WD,Standard constraints for western diet in AGORA,,Arabinoxylan,arabinoxyl,cpd22387,0.0003066486
+203,AGORA_WD,Standard constraints for western diet in AGORA,arg__L,L-Arginine,arg_L,cpd00051,0.15
+204,AGORA_WD,Standard constraints for western diet in AGORA,asn__L,L-asparagine,asn_L,cpd00132,0.225
+205,AGORA_WD,Standard constraints for western diet in AGORA,asp__L,L-Aspartate,asp_L,cpd00041,0.225
+206,AGORA_WD,Standard constraints for western diet in AGORA,bglc,beta glucans,bglc,cpd22448,7.05e-08
+207,AGORA_WD,Standard constraints for western diet in AGORA,btn,Biotin,btn,cpd00104,1.0
+208,AGORA_WD,Standard constraints for western diet in AGORA,ca2,Calcium,ca2,cpd00063,1.0
+209,AGORA_WD,Standard constraints for western diet in AGORA,cbl1,Cob(I)alamin,cbl1,cpd00635,1.0
+210,AGORA_WD,Standard constraints for western diet in AGORA,cellb,Cellobiose,cellb,cpd03845,0.074493
+211,AGORA_WD,Standard constraints for western diet in AGORA,cell500,Cellulose,cellul,,2.82117e-05
+212,AGORA_WD,Standard constraints for western diet in AGORA,cgly,Cys-Gly,cgly,cpd01017,1.0
+213,AGORA_WD,Standard constraints for western diet in AGORA,chol,Choline,chol,cpd00098,1.0
+214,AGORA_WD,Standard constraints for western diet in AGORA,chor,Chorismate,chor,cpd00216,1.0
+215,AGORA_WD,Standard constraints for western diet in AGORA,chsterol,cholesterol,chsterol,cpd00160,0.004958
+216,AGORA_WD,Standard constraints for western diet in AGORA,cit,Citrate,cit,cpd00137,1.0
+217,AGORA_WD,Standard constraints for western diet in AGORA,cl,Chloride,cl,cpd00099,1.0
+218,AGORA_WD,Standard constraints for western diet in AGORA,cobalt2,Co2+,cobalt2,cpd00149,1.0
+219,AGORA_WD,Standard constraints for western diet in AGORA,csn,Cytosine,csn,cpd00307,1.0
+220,AGORA_WD,Standard constraints for western diet in AGORA,cu2,Cu2+,cu2,cpd00058,1.0
+221,AGORA_WD,Standard constraints for western diet in AGORA,cys__L,L-cysteine,cys_L,cpd00084,1.0
+222,AGORA_WD,Standard constraints for western diet in AGORA,cytd,Cytidine,cytd,cpd00367,1.0
+223,AGORA_WD,Standard constraints for western diet in AGORA,dad_2,2-deoxyadenosine,dad_2,cpd00438,1.0
+224,AGORA_WD,Standard constraints for western diet in AGORA,dcyt,Deoxycytidine,dcyt,cpd00654,1.0
+225,AGORA_WD,Standard constraints for western diet in AGORA,ddca,laurate,ddca,cpd01741,1.0
+226,AGORA_WD,Standard constraints for western diet in AGORA,,"Dextran 40, (1,6-alpha-D-Glucan)",dextran40,cpd11658,0.0001763229
+227,AGORA_WD,Standard constraints for western diet in AGORA,dgsn,Deoxyguanosine,dgsn,cpd00277,1.0
+228,AGORA_WD,Standard constraints for western diet in AGORA,drib,Deoxyribose,drib,cpd01242,0.178783
+229,AGORA_WD,Standard constraints for western diet in AGORA,fald,formaldehyde,fald,cpd00055,1.0
+230,AGORA_WD,Standard constraints for western diet in AGORA,fe2,Fe2+,fe2,cpd10515,1.0
+231,AGORA_WD,Standard constraints for western diet in AGORA,fe3,Fe3+,fe3,cpd10516,1.0
+232,AGORA_WD,Standard constraints for western diet in AGORA,fol,Folate,fol,cpd00393,1.0
+233,AGORA_WD,Standard constraints for western diet in AGORA,for,Formate,for,cpd00047,1.0
+234,AGORA_WD,Standard constraints for western diet in AGORA,fru,D-Fructose,fru,cpd00082,0.148986
+235,AGORA_WD,Standard constraints for western diet in AGORA,fuc__L,L-Fucose,fuc_L,cpd00751,0.148986
+236,AGORA_WD,Standard constraints for western diet in AGORA,fum,fumarate,fum,cpd00106,1.0
+237,AGORA_WD,Standard constraints for western diet in AGORA,gal,D-Galactose,gal,cpd00108,0.148986
+238,AGORA_WD,Standard constraints for western diet in AGORA,,Galactomannan,galmannan,cpd00656,1.41058e-05
+239,AGORA_WD,Standard constraints for western diet in AGORA,gam,D-Glucosamine,gam,cpd00276,1.0
+240,AGORA_WD,Standard constraints for western diet in AGORA,glc__D,D-Glucose,glc_D,cpd00027,0.148986
+241,AGORA_WD,Standard constraints for western diet in AGORA,,Glucomannan,glcmannan,cpd11955,3.28807e-05
+242,AGORA_WD,Standard constraints for western diet in AGORA,glcn,D-Gluconate,glcn,cpd00222,0.148986
+243,AGORA_WD,Standard constraints for western diet in AGORA,gln__L,L-glutamine,gln_L,cpd00053,0.18
+244,AGORA_WD,Standard constraints for western diet in AGORA,glu__L,L-Glutamate,glu_L,cpd00023,0.18
+245,AGORA_WD,Standard constraints for western diet in AGORA,gly,Glycine,gly,cpd00033,0.45
+246,AGORA_WD,Standard constraints for western diet in AGORA,glyc,Glycerol,glyc,cpd00100,1.799655
+247,AGORA_WD,Standard constraints for western diet in AGORA,glyc3p,Ex glyc3p[e],glyc3p,cpd00080,1.0
+248,AGORA_WD,Standard constraints for western diet in AGORA,gsn,Guanosine,gsn,cpd00311,1.0
+249,AGORA_WD,Standard constraints for western diet in AGORA,gthox,Oxidized glutathione,gthox,cpd00111,1.0
+250,AGORA_WD,Standard constraints for western diet in AGORA,gthrd,Reduced glutathione,gthrd,cpd00042,1.0
+251,AGORA_WD,Standard constraints for western diet in AGORA,gua,Guanine,gua,cpd00207,1.0
+252,AGORA_WD,Standard constraints for western diet in AGORA,h,proton,h,cpd00067,1.0
+253,AGORA_WD,Standard constraints for western diet in AGORA,h2,H2,h2,cpd11640,1.0
+254,AGORA_WD,Standard constraints for western diet in AGORA,h2o,H2O,h2o,cpd00001,10.0
+255,AGORA_WD,Standard constraints for western diet in AGORA,h2s,Hydrogen sulfide,h2s,cpd00239,1.0
+256,AGORA_WD,Standard constraints for western diet in AGORA,hdca,Hexadecanoate (n-C16:0),hdca,cpd00214,0.396371
+257,AGORA_WD,Standard constraints for western diet in AGORA,his__L,L-histidine,his_L,cpd00119,0.15
+258,AGORA_WD,Standard constraints for western diet in AGORA,,Homogalacturonan,homogal,,0.0001282349
+259,AGORA_WD,Standard constraints for western diet in AGORA,hxan,Hypoxanthine,hxan,cpd00226,1.0
+260,AGORA_WD,Standard constraints for western diet in AGORA,ile__L,L-Isoleucine,ile_L,cpd00322,0.15
+261,AGORA_WD,Standard constraints for western diet in AGORA,indole,Indole,indole,cpd00359,1.0
+262,AGORA_WD,Standard constraints for western diet in AGORA,,Inulin,inulin,cpd11602,0.0004701945
+263,AGORA_WD,Standard constraints for western diet in AGORA,k,K+,k,cpd00205,1.0
+264,AGORA_WD,Standard constraints for western diet in AGORA,,Kestopentaose,kestopt,,0.0028211667
+265,AGORA_WD,Standard constraints for western diet in AGORA,lanost,Lanosterol,lanost,cpd01188,1.0
+266,AGORA_WD,Standard constraints for western diet in AGORA,lcts,Lactose,lcts,cpd00208,0.074493
+267,AGORA_WD,Standard constraints for western diet in AGORA,leu__L,L-Leucine,leu_L,cpd00107,0.15
+268,AGORA_WD,Standard constraints for western diet in AGORA,,Levan,levan1000,cpd27401,1.41058e-05
+269,AGORA_WD,Standard constraints for western diet in AGORA,,Lichenin,lichn,cpd27402,8.29755e-05
+270,AGORA_WD,Standard constraints for western diet in AGORA,lmn30,Laminarin,lmn30,cpd11748,0.0004701945
+271,AGORA_WD,Standard constraints for western diet in AGORA,lys__L,L-Lysine,lys_L,cpd00039,0.15
+272,AGORA_WD,Standard constraints for western diet in AGORA,malt,Maltose,malt,cpd00179,0.074493
+273,AGORA_WD,Standard constraints for western diet in AGORA,man,D-Mannose,man,cpd00138,0.148986
+274,AGORA_WD,Standard constraints for western diet in AGORA,melib,Melibiose,melib,cpd03198,0.074493
+275,AGORA_WD,Standard constraints for western diet in AGORA,meoh,methanol,meoh,cpd00116,10.0
+276,AGORA_WD,Standard constraints for western diet in AGORA,met__L,L-Methionine,met_L,cpd00060,0.18
+277,AGORA_WD,Standard constraints for western diet in AGORA,metsox_S__L,L-Methionine S-oxide,metsox_S_L,cpd01914,1.0
+278,AGORA_WD,Standard constraints for western diet in AGORA,mg2,Mg,mg2,cpd00254,1.0
+279,AGORA_WD,Standard constraints for western diet in AGORA,mn2,Mn2+,mn2,cpd00030,1.0
+280,AGORA_WD,Standard constraints for western diet in AGORA,mnl,D-Mannitol,mnl,cpd00314,0.148986
+281,AGORA_WD,Standard constraints for western diet in AGORA,mobd,Molybdate,mobd,cpd11574,1.0
+282,AGORA_WD,Standard constraints for western diet in AGORA,mqn7,Menaquinone 7,mqn7,cpd11606,1.0
+283,AGORA_WD,Standard constraints for western diet in AGORA,mqn8,Menaquinone 8,mqn8,cpd15500,1.0
+284,AGORA_WD,Standard constraints for western diet in AGORA,na1,Sodium,na1,cpd00971,1.0
+285,AGORA_WD,Standard constraints for western diet in AGORA,nac,Nicotinate,nac,cpd00218,1.0
+286,AGORA_WD,Standard constraints for western diet in AGORA,ncam,Nicotinamide,ncam,cpd00133,1.0
+287,AGORA_WD,Standard constraints for western diet in AGORA,nmn,NMN,nmn,cpd00355,1.0
+288,AGORA_WD,Standard constraints for western diet in AGORA,no2,Nitrite,no2,cpd00075,1.0
+289,AGORA_WD,Standard constraints for western diet in AGORA,ocdca,echange reaction for octadecanoate (n-C18:0),ocdca,cpd01080,0.169283
+290,AGORA_WD,Standard constraints for western diet in AGORA,ocdcea,octadecenoate (n-C18:1),ocdcea,cpd00536,0.681445
+291,AGORA_WD,Standard constraints for western diet in AGORA,orn,Ornithine,orn,cpd00064,1.0
+292,AGORA_WD,Standard constraints for western diet in AGORA,oxa,Oxalate,oxa,cpd00180,0.446957
+293,AGORA_WD,Standard constraints for western diet in AGORA,pect,pectins,pect,cpd11601,3.33866e-05
+294,AGORA_WD,Standard constraints for western diet in AGORA,phe__L,L-phenylalanine,phe_L,cpd00066,1.0
+295,AGORA_WD,Standard constraints for western diet in AGORA,pheme,heme,pheme,cpd00028,1.0
+296,AGORA_WD,Standard constraints for western diet in AGORA,pi,Phosphate,pi,cpd00009,1.0
+297,AGORA_WD,Standard constraints for western diet in AGORA,pime,Pimelate,pime,cpd01727,1.0
+298,AGORA_WD,Standard constraints for western diet in AGORA,pnto__R,(R)-Pantothenate,pnto_R,cpd00644,1.0
+299,AGORA_WD,Standard constraints for western diet in AGORA,pro__L,L-Proline,pro_L,cpd00129,0.18
+300,AGORA_WD,Standard constraints for western diet in AGORA,ptrc,"1,4-butanediammonium",ptrc,cpd00118,1.0
+301,AGORA_WD,Standard constraints for western diet in AGORA,pullulan1200,Pullulan,pullulan1200,cpd27994,1.17549e-05
+302,AGORA_WD,Standard constraints for western diet in AGORA,pydam,Pyridoxamine,pydam,cpd00419,1.0
+303,AGORA_WD,Standard constraints for western diet in AGORA,pydx,Pyridoxal,pydx,cpd00215,1.0
+304,AGORA_WD,Standard constraints for western diet in AGORA,pydxn,Pyridoxine,pydxn,cpd00263,1.0
+305,AGORA_WD,Standard constraints for western diet in AGORA,q8,Ubiquinone-8,q8,cpd15560,1.0
+306,AGORA_WD,Standard constraints for western diet in AGORA,raffin,Raffinose,raffin,cpd00382,0.0047019445
+307,AGORA_WD,Standard constraints for western diet in AGORA,,Rhamnogalacturonan I,rhamnogalurI,,1.44923e-05
+308,AGORA_WD,Standard constraints for western diet in AGORA,,Rhamnogalacturonan II,rhamnogalurII,,0.0002669874
+309,AGORA_WD,Standard constraints for western diet in AGORA,rib__D,ribose,rib_D,cpd00105,0.178783
+310,AGORA_WD,Standard constraints for western diet in AGORA,ribflv,Riboflavin,ribflv,cpd00220,1.0
+311,AGORA_WD,Standard constraints for western diet in AGORA,rmn,L-Rhamnose,rmn,cpd00396,0.148986
+312,AGORA_WD,Standard constraints for western diet in AGORA,sel,Selenate,sel,cpd03396,1.0
+313,AGORA_WD,Standard constraints for western diet in AGORA,ser__L,L-serine,ser_L,cpd00054,1.0
+314,AGORA_WD,Standard constraints for western diet in AGORA,sheme,Siroheme,sheme,cpd00557,1.0
+315,AGORA_WD,Standard constraints for western diet in AGORA,so4,Sulfate,so4,cpd00048,1.0
+316,AGORA_WD,Standard constraints for western diet in AGORA,spmd,spermidine(3+),spmd,cpd00264,1.0
+317,AGORA_WD,Standard constraints for western diet in AGORA,starch1200,Starch,starch1200,cpd28193,1.17549e-05
+318,AGORA_WD,Standard constraints for western diet in AGORA,strch1,"starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]})",strch1,cpd11657,0.257339
+319,AGORA_WD,Standard constraints for western diet in AGORA,sucr,Sucrose,sucr,cpd00076,0.074493
+320,AGORA_WD,Standard constraints for western diet in AGORA,thm,Thiamin,thm,cpd00305,1.0
+321,AGORA_WD,Standard constraints for western diet in AGORA,thr__L,L-Threonine,thr_L,cpd00161,0.225
+322,AGORA_WD,Standard constraints for western diet in AGORA,thymd,Thymidine,thymd,cpd00184,1.0
+323,AGORA_WD,Standard constraints for western diet in AGORA,tre,Trehalose,tre,cpd00794,0.074493
+324,AGORA_WD,Standard constraints for western diet in AGORA,trp__L,L-Tryptophan,trp_L,cpd00065,0.08182
+325,AGORA_WD,Standard constraints for western diet in AGORA,ttdca,tetradecanoate (n-C14:0),ttdca,cpd03847,0.068676
+326,AGORA_WD,Standard constraints for western diet in AGORA,tyr__L,L-Tyrosine,tyr_L,cpd00069,1.0
+327,AGORA_WD,Standard constraints for western diet in AGORA,ura,Uracil,ura,cpd00092,1.0
+328,AGORA_WD,Standard constraints for western diet in AGORA,uri,Uridine,uri,cpd00249,1.0
+329,AGORA_WD,Standard constraints for western diet in AGORA,val__L,L-Valine,val_L,cpd00156,0.18
+330,AGORA_WD,Standard constraints for western diet in AGORA,xan,Ex xan[e],xan,cpd00309,1.0
+331,AGORA_WD,Standard constraints for western diet in AGORA,xyl__D,D-Xylose,xyl_D,cpd00154,0.178783
+332,AGORA_WD,Standard constraints for western diet in AGORA,xylan12,Xylan,xylan,cpd11732,3.20587e-05
+333,AGORA_WD,Standard constraints for western diet in AGORA,cpd11752,Xyluglucan,xyluglc,cpd11752,1.31462e-05
+334,AGORA_WD,Standard constraints for western diet in AGORA,zn2,Zinc,zn2,cpd00034,1.0
+335,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,12dgr180,"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",12dgr180,cpd15311,0.01
+336,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,15dap,"1,5-Diaminopentane",15dap,cpd01155,0.0002099522
+337,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,26dap__M,"meso-2,6-Diaminoheptanedioate",26dap_M,cpd00516,0.01
+338,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,2dmmq8,2-Demethylmenaquinone 8,2dmmq8,cpd15352,0.01
+339,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,2obut,2-Oxobutanoate,2obut,cpd00094,0.01
+340,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,3mop,3-methyl-2-oxopentanoate,3mop,cpd00508,0.01
+341,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,4abz,4 Aminobenzoate,4abz,cpd00443,0.01
+342,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,4hbz,4-Hydroxybenzoate,4hbz,cpd00136,0.01
+343,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ac,Acetate,ac,cpd00029,0.01
+344,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,acgam,N-Acetyl-D-glucosamine,acgam,cpd00122,0.01
+345,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,acmana,N-acetyl-D-mannosamine,acmana,cpd00492,0.01
+346,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,acnam,N-Acetylneuraminate,acnam,cpd00232,0.01
+347,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ade,Adenine,ade,cpd00128,0.01
+348,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,adn,Adenosine,adn,cpd00182,0.01180031
+349,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,adpcbl,Adenosylcobalamin,adpcbl,cpd00166,0.01
+350,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ala__D,D-Alanine,ala_D,cpd00117,0.01
+351,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ala__L,L-alanine,ala_L,cpd00035,0.2209276809
+352,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,amet,S-Adenosyl-L-methionine,amet,cpd00017,0.0001
+353,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,amp,AMP,amp,cpd00018,0.0001
+354,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,amylopect900,Amylopectin (900 glucose units),amylopect900,cpd00265,1.56731e-07
+355,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,amylose300,Amylose,amylose300,cpd11735,4.70194e-07
+356,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,arab__D,D-Arabinose,arab_D,cpd00185,0.01
+357,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,arab__L,L-Arabinose,arab_L,cpd19109,0.00178783
+358,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,arabinan101,Arabinan,arabinan101,cpd15928,0.00201556
+359,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,arabinogal,Larch arabinogalactan,arabinogal,cpd11699,2.19148e-07
+360,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,arabinoxyl,Arabinoxylan,arabinoxyl,cpd22387,3.066486e-06
+361,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,arg__L,L-Arginine,arg_L,cpd00051,0.123033714
+362,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,asn__L,L-asparagine,asn_L,cpd00132,0.1365041903
+363,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,asp__L,L-Aspartate,asp_L,cpd00041,0.1365041903
+364,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,bglc,beta glucans,bglc,cpd22448,7.05e-10
+365,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,btn,Biotin,btn,cpd00104,0.0100009605
+366,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,but,Butyrate (n-C4:0),but,cpd00211,0.070965801
+367,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ca2,Calcium,ca2,cpd00063,0.1206519693
+368,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cbl1,Cob(I)alamin,cbl1,cpd00635,0.01
+369,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cbl2,Cob(II)alamin,cbl2,cpd00423,2.30943762966508e-08
+370,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cellb,Cellobiose,cellb,cpd03845,0.00074493
+371,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cellul,Cellulose,cellul,cpd00158,0.0003057055
+372,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cgly,Cys-Gly,cgly,cpd01017,0.01
+373,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,chol,Choline,chol,cpd00098,0.01
+374,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,chor,Chorismate,chor,cpd00216,0.01
+375,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,chsterol,cholesterol,chsterol,cpd00160,0.0048513082
+376,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cit,Citrate,cit,cpd00137,0.01
+377,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cl,Chloride,cl,cpd00099,1.0
+378,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cobalt2,Co2+,cobalt2,cpd00149,0.01
+379,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,csn,Cytosine,csn,cpd00307,0.01
+380,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cu2,Cu2+,cu2,cpd00058,1.0
+381,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cys__L,L-cysteine,cys_L,cpd00084,0.0520254099
+382,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,cytd,Cytidine,cytd,cpd00367,0.0120505887
+383,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,dad__2,2-deoxyadenosine,dad_2,cpd00438,0.01180031
+384,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,dcyt,Deoxycytidine,dcyt,cpd00654,0.0120505887
+385,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ddca,laurate,ddca,cpd01741,0.0685966757
+386,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,dextran40,"Dextran 40, (1,6-alpha-D-Glucan)",dextran40,cpd11658,1.763229e-06
+387,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,dgsn,Deoxyguanosine,dgsn,cpd00277,0.0120505887
+388,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,drib,Deoxyribose,drib,cpd01242,0.00178783
+389,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,etoh,Ethanol,etoh,cpd00363,1.2567363166
+390,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,fald,formaldehyde,fald,cpd00055,0.01
+391,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,fe2,fe2,fe2,cpd10515,0.01
+392,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,fe3,Fe3+,fe3,cpd10516,1.0
+393,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,fol,Folate,fol,cpd00393,0.0100009994
+394,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,for,Formate,for,cpd00047,0.01
+395,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,fru,D-Fructose,fru,cpd00082,0.7749437979
+396,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,fuc__L,L-Fucose,fuc_L,cpd00751,0.00148986
+397,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,fum,fumarate,fum,cpd00106,0.01
+398,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,gal,D-Galactose,gal,cpd00108,0.0142987165
+399,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,galmannan,Galactomannan,galmannan,cpd00656,1.41058e-07
+400,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,gam,D-Glucosamine,gam,cpd00276,0.01
+401,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,glc__D,D-Glucose,glc_D,cpd00027,0.6382068862
+402,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,glcmannan,Glucomannan,glcmannan,cpd11955,3.28807e-07
+403,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,glcn,D-Gluconate,glcn,cpd00222,0.00148986
+404,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,gln__L,L-glutamine,gln_L,cpd00053,0.2580123516
+405,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,glu__L,L-Glutamate,glu_L,cpd00023,0.2580123516
+406,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,gly,Glycine,gly,cpd00033,0.2146577906
+407,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,glyc,Glycerol,glyc,cpd00100,0.3687621312
+408,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,glyc3p,glyc3p[e],glyc3p,cpd00080,0.01
+409,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,glygn2,"glycogen, structure 2 (glycogenin-1,6-{7[1,4-Glc], 4[1,4-Glc]})",glygn2,cpd00155,0.0007080567
+410,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,gsn,Guanosine,gsn,cpd00311,0.0120505887
+411,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,gthox,Oxidized glutathione,gthox,cpd00111,0.01
+412,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,gthrd,Reduced glutathione,gthrd,cpd00042,0.01
+413,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,gua,Guanine,gua,cpd00207,0.01
+414,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,h,proton,h,cpd00067,0.010005871
+415,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,h2,H2,h2,cpd11640,0.01
+416,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,h2o,H2O,h2o,cpd00001,899.5481541463
+417,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,h2s,Hydrogen sulfide,h2s,cpd00239,0.01
+418,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,hdca,Hexadecanoate (n-C16:0),hdca,cpd00214,0.3828181338
+419,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,his__L,L-histidine,his_L,cpd00119,0.068998523
+420,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,homogal,Homogalacturonan,homogal,,1.282349e-06
+421,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,hxan,Hypoxanthine,hxan,cpd00226,0.0143784249
+422,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ile__L,L-Isoleucine,ile_L,cpd00322,0.1434704763
+423,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,indole,Indole,indole,cpd00359,0.01
+424,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,inulin,Inulin,inulin,cpd11602,0.0068897463
+425,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,k,K+,k,cpd00205,0.4078688384
+426,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,kestopt,Kestopentaose,kestopt,,0.0023101135
+427,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,lanost,Lanosterol,lanost,cpd01188,0.01
+428,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,lcts,Lactose,lcts,cpd00208,0.1572936961
+429,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,leu__L,L-Leucine,leu_L,cpd00107,0.2298826784
+430,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,levan1000,Levan,levan1000,cpd27401,1.41058e-07
+431,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,lichn,Lichenin,lichn,cpd27402,8.29755e-07
+432,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,lmn30,Laminarin,lmn30,cpd11748,4.701945e-06
+433,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,lys__L,L-Lysine,lys_L,cpd00039,0.1804121894
+434,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,malt,Maltose,malt,cpd00179,0.0308846912
+435,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,malttr,Maltotriose,malttr,cpd01262,0.0348922813
+436,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,man,D-Mannose,man,cpd00138,0.00148986
+437,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,melib,Melibiose,melib,cpd03198,0.00074493
+438,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,meoh,methanol,meoh,cpd00116,0.1
+439,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,met__L,L-Methionine,met_L,cpd00060,0.0581796163
+440,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,metsox__S__L,L-Methionine S-oxide,metsox_S_L,cpd01914,0.01
+441,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,mg2,Mg,mg2,cpd00254,0.0821832787
+442,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,mn2,Mn2+,mn2,cpd00030,1.0
+443,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,mnl,D-Mannitol,mnl,cpd00314,0.0103417227
+444,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,mobd,Molybdate,mobd,cpd11574,0.01
+445,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,mqn7,Menaquinone 7,mqn7,cpd11606,0.01
+446,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,mqn8,Menaquinone 8,mqn8,cpd15500,0.01
+447,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,na1,Sodium,na1,cpd00971,0.5216802911
+448,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,nac,Nicotinate,nac,cpd00218,0.0103167885
+449,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ncam,Nicotinamide,ncam,cpd00133,0.0103167885
+450,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,nmn,NMN,nmn,cpd00355,0.01
+451,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,no2,Nitrite,no2,cpd00075,0.01
+452,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ocdca,echange reaction for octadecanoate (n-C18:0),ocdca,cpd01080,0.1474632767
+453,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ocdcea,octadecenoate (n-C18:1),ocdcea,cpd00536,0.5444822177
+454,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,orn,Ornithine,orn,cpd00064,0.0131268799
+455,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,oxa,Oxalate,oxa,cpd00180,0.00446957
+456,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pect,pectins,pect,cpd11601,3.33866e-07
+457,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,phe__L,L-phenylalanine,phe_L,cpd00066,0.1133907221
+458,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pheme,heme,pheme,cpd00028,0.01
+459,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pi,Phosphate,pi,cpd00009,1.0
+460,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pime,Pimelate,pime,cpd01727,0.01
+461,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pnto__R,(R)-Pantothenate,pnto_R,cpd00644,0.0101132785
+462,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pro__L,L-Proline,pro_L,cpd00129,0.240149791
+463,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ptrc,"1,4-butanediammonium",ptrc,cpd00118,0.0103800912
+464,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pullulan1200,Pullulan,pullulan1200,cpd27994,1.17549e-07
+465,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pydam,Pyridoxamine,pydam,cpd00419,0.01
+466,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pydx,Pyridoxal,pydx,cpd00215,0.01
+467,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,pydxn,Pyridoxine,pydxn,cpd00263,0.0100479715
+468,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,q8,Ubiquinone-8,q8,cpd15560,0.01
+469,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,raffin,Raffinose,raffin,cpd00382,4.7019445e-05
+470,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,rhamnogalurI,Rhamnogalacturonan I,rhamnogalurI,,0.0001195937
+471,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,rhamnogalurII,Rhamnogalacturonan II,rhamnogalurII,,2.669874e-06
+472,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,rib__D,ribose,rib_D,cpd00105,0.1576051499
+473,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ribflv,Riboflavin,ribflv,cpd00220,0.0100208569
+474,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,rmn,L-Rhamnose,rmn,cpd00396,0.00148986
+475,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,sbt__L,L-Sorbitol,sbt_L,cpd01187,0.0373186202
+476,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,sel,Selenate,sel,cpd03396,0.01
+477,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ser__L,L-serine,ser_L,cpd00054,0.1882616036
+478,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,sheme,Siroheme,sheme,cpd00557,0.01
+479,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,so4,Sulfate,so4,cpd00048,0.01
+480,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,spmd,spermidine(3+),spmd,cpd00264,0.0102681044
+481,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,starch1200,Starch,starch1200,cpd28193,1.17549e-07
+482,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,strch1,"starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]})",strch1,cpd11657,0.2805155533
+483,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,sucr,Sucrose,sucr,cpd00076,0.8993268454
+484,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,thm,Thiamin,thm,cpd00305,0.010022852
+485,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,thr__L,L-Threonine,thr_L,cpd00161,0.1345280187
+486,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,thymd,Thymidine,thymd,cpd00184,0.01180031
+487,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,tre,Trehalose,tre,cpd00794,0.00074493
+488,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,trp__L,L-Tryptophan,trp_L,cpd00065,0.0225147474
+489,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ttdca,tetradecanoate (n-C14:0),ttdca,cpd03847,0.1059347856
+490,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,tyr__L,L-Tyrosine,tyr_L,cpd00069,0.0862940157
+491,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,ura,Uracil,ura,cpd00092,0.01
+492,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,uri,Uridine,uri,cpd00249,0.01180031
+493,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,val__L,L-Valine,val_L,cpd00156,0.184862653
+494,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,xan,xan[e],xan,cpd00309,0.0105163423
+495,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,xyl__D,D-Xylose,xyl_D,cpd00154,0.0020298944
+496,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,xylan,Xylan,xylan,cpd11732,3.20587e-07
+497,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,xyluglc,Xyluglucan,xyluglc,cpd11752,1.31462e-07
+498,GER_ag[north],Average Kiel area diet with 1% of original agora western diet,zn2,Zinc,zn2,cpd00034,1.0
+499,HumanMilk,Average Human Mother Milk Composition,lcts,LACT,lcts,cpd00208,4.9874470359
+500,HumanMilk,Average Human Mother Milk Composition,glc__D,D-Glucose,glc_D,cpd00027,3.75
+501,HumanMilk,Average Human Mother Milk Composition,fuc__L,L-Fucose,fuc_L,cpd00751,1.3343108504
+502,HumanMilk,Average Human Mother Milk Composition,gal,Galactose,gal,cpd00108,0.7791659632
+503,HumanMilk,Average Human Mother Milk Composition,,2-fucosyllactose,2fl,cpd90001,4.9239863498
+504,HumanMilk,Average Human Mother Milk Composition,,Lacto-N-tetraose,,cpd03807,4.5299770233
+505,HumanMilk,Average Human Mother Milk Composition,octa,octanoate,octa,cpd03846,2.6086956522
+506,HumanMilk,Average Human Mother Milk Composition,dca,Decanoate,dca,cpd01107,4.4676877101
+507,HumanMilk,Average Human Mother Milk Composition,ddca,Dodecanoic acid,ddca,cpd01741,4.7552608173
+508,HumanMilk,Average Human Mother Milk Composition,ttdca,Myristic acid,ttdca,cpd03847,4.7624496045
+509,HumanMilk,Average Human Mother Milk Composition,fa3,fa3coa,fa3,cpd11437,2.6834964965
+510,HumanMilk,Average Human Mother Milk Composition,hdca,Palmitate,hdca,cpd00214,4.9282778689
+511,HumanMilk,Average Human Mother Milk Composition,fa11,fa11coa,fa11,cpd11432,2.2772530409
+512,HumanMilk,Average Human Mother Milk Composition,ocdca,ocdca,ocdca,cpd01080,4.7243133029
+513,HumanMilk,Average Human Mother Milk Composition,arach,Arachidic acid,arach,cpd03848,1.670235546
+514,HumanMilk,Average Human Mother Milk Composition,ttdcea,tetradecenoate,ttdcea,cpd15298,2.4552567677
+515,HumanMilk,Average Human Mother Milk Composition,hdcea,Palmitoleic acid,hdcea,cpd05274,4.5359743573
+516,HumanMilk,Average Human Mother Milk Composition,ocdcea,Oleate,ocdcea,cpd00536,4.9503262484
+517,HumanMilk,Average Human Mother Milk Composition,doco13ac,Erucic acid,doco13ac,cpd05231,0.9397590361
+518,HumanMilk,Average Human Mother Milk Composition,lnlc,Linoleate,lnlc,cpd01122,4.834519573
+519,HumanMilk,Average Human Mother Milk Composition,arachd,Arachidonate,arachd,cpd00188,2.4049331963
+520,HumanMilk,Average Human Mother Milk Composition,lnlnca,Linolenate,lnlnca,cpd03850,3.8727006349
+521,HumanMilk,Average Human Mother Milk Composition,ala__L,L-Alanine,ala_L,cpd00035,4.433059175
+522,HumanMilk,Average Human Mother Milk Composition,arg__L,L-Arginine,arg_L,cpd00051,4.0233474503
+523,HumanMilk,Average Human Mother Milk Composition,asp__L,L-Aspartate,asp_L,cpd00041,4.5660705526
+524,HumanMilk,Average Human Mother Milk Composition,asn__L,L-Asparagine,asn_L,cpd00132,3.8734112661
+525,HumanMilk,Average Human Mother Milk Composition,cys__L,L-Cysteine,cys_L,cpd00084,3.989631341
+526,HumanMilk,Average Human Mother Milk Composition,glu__L,L-Glutamate,glu_L,cpd00023,4.767840514
+527,HumanMilk,Average Human Mother Milk Composition,gln__L,L-Glutamine,gln_L,cpd00053,4.446926954
+528,HumanMilk,Average Human Mother Milk Composition,gly,Glycine,gly,cpd00033,4.2282459492
+529,HumanMilk,Average Human Mother Milk Composition,his__L,L-Histidine,his_L,cpd00119,3.7755565463
+530,HumanMilk,Average Human Mother Milk Composition,ile__L,L-Isoleucine,ile_L,cpd00322,4.4521307768
+531,HumanMilk,Average Human Mother Milk Composition,leu__L,L-Leucine,leu_L,cpd00107,4.6888376809
+532,HumanMilk,Average Human Mother Milk Composition,lys__L,L-Lysine,lys_L,cpd00039,4.5315869307
+533,HumanMilk,Average Human Mother Milk Composition,met__L,L-Methionine,met_L,cpd00060,3.4344578264
+534,HumanMilk,Average Human Mother Milk Composition,phe__L,L-Phenylalanine,phe_L,cpd00066,4.0644172616
+535,HumanMilk,Average Human Mother Milk Composition,pro__L,L-Proline,pro_L,cpd00129,4.7461857988
+536,HumanMilk,Average Human Mother Milk Composition,ser__L,L-Serine,ser_L,cpd00054,4.5051798813
+537,HumanMilk,Average Human Mother Milk Composition,thr__L,L-Threonine,thr_L,cpd00161,4.4464482177
+538,HumanMilk,Average Human Mother Milk Composition,trp__L,L-Tryptophan,trp_L,cpd00065,3.3632892212
+539,HumanMilk,Average Human Mother Milk Composition,tyr__L,L-Tyrosine,tyr_L,cpd00069,4.1889785654
+540,HumanMilk,Average Human Mother Milk Composition,val__L,L-Valine,val_L,cpd00156,4.5691094936
+541,HumanMilk,Average Human Mother Milk Composition,urea,Urea,urea,cpd00073,4.4638074492
+542,HumanMilk,Average Human Mother Milk Composition,creat,Creatine,creat,cpd00250,1.8048780488
+543,HumanMilk,Average Human Mother Milk Composition,crtn,Creatinine,crtn,cpd00585,1.912568306
+544,HumanMilk,Average Human Mother Milk Composition,urate,Urate,urate,cpd00300,0.2808988764
+545,HumanMilk,Average Human Mother Milk Composition,gam,GLUM,gam,cpd00276,1.7205403229
+546,HumanMilk,Average Human Mother Milk Composition,nh4,Ammonia,nh4,cpd00013,0.9074410163
+547,HumanMilk,Average Human Mother Milk Composition,thm,Thiamin,thm,cpd00305,0.007901569
+548,HumanMilk,Average Human Mother Milk Composition,ribflv,Riboflavin,ribflv,cpd00220,0.0092820962
+549,HumanMilk,Average Human Mother Milk Composition,nac,Niacin,nac,cpd00218,0.1189443451
+550,HumanMilk,Average Human Mother Milk Composition,pydam,Pyridoxamine,pydam,cpd00419,2.6256352343
+551,HumanMilk,Average Human Mother Milk Composition,pydx,Pyridoxal,pydx,cpd00215,2.6333673123
+552,HumanMilk,Average Human Mother Milk Composition,pydx5p,Pyridoxal phosphate,pydx5p,cpd00016,2.1471018742
+553,HumanMilk,Average Human Mother Milk Composition,pydxn,Pyridoxol,pydxn,cpd00263,2.6183906752
+554,HumanMilk,Average Human Mother Milk Composition,pnto__R,Pantothenic acid,pnto_R,cpd00644,0.0807754443
+555,HumanMilk,Average Human Mother Milk Composition,fol,Folate,fol,cpd00393,0.0019249496
+556,HumanMilk,Average Human Mother Milk Composition,adocbl,Calomide,adocbl,cpd00166,7.15670711022688e-06
+557,HumanMilk,Average Human Mother Milk Composition,cbl1,Cob(I)alamin,cbl1,cpd00635,7.15670711022688e-06
+558,HumanMilk,Average Human Mother Milk Composition,btn,Biotin,btn,cpd00104,0.0001637211
+559,HumanMilk,Average Human Mother Milk Composition,ca2,Ca2+,ca2,cpd00063,4.6660600789
+560,HumanMilk,Average Human Mother Milk Composition,pi,Phosphate,pi,cpd00009,3.7236221268
+561,HumanMilk,Average Human Mother Milk Composition,mg2,Mg,mg2,cpd00254,3.7113620699
+562,HumanMilk,Average Human Mother Milk Composition,na1,Sodium,na1,cpd00971,4.6998616152
+563,HumanMilk,Average Human Mother Milk Composition,k,K+,k,cpd00205,4.8205028381
+564,HumanMilk,Average Human Mother Milk Composition,cl,Cl-,cl,cpd00099,4.7975326975
+565,HumanMilk,Average Human Mother Milk Composition,fe2,Fe2+,fe2,cpd00021,0.01
+566,HumanMilk,Average Human Mother Milk Composition,fe3,fe3,fe3,cpd10516,1.0
+567,HumanMilk,Average Human Mother Milk Composition,zn2,Zn2+,zn2,cpd00034,1.0
+568,HumanMilk,Average Human Mother Milk Composition,cu2,Cu2+,cu2,cpd00058,1.0
+569,HumanMilk,Average Human Mother Milk Composition,sel,Selenate,sel,cpd03396,1.0
+570,HumanMilk,Average Human Mother Milk Composition,mn2,Mn2+,mn2,cpd00030,1.0
+571,HumanMilk,Average Human Mother Milk Composition,cro4,chromate,cro4,cpd11595,1.0
+572,HumanMilk,Average Human Mother Milk Composition,mobd,Molybdate,mobd,cpd11574,1.0
+573,HumanMilk,Average Human Mother Milk Composition,so4,Sulfate,so4,cpd00048,1.0
+574,HumanMilk,Average Human Mother Milk Composition,no2,Nitrite,no2,cpd00075,1.0
+575,HumanMilk,Average Human Mother Milk Composition,no3,Nitrate,no3,cpd00209,1.0
+576,HumanMilk,Average Human Mother Milk Composition,chsterol,Cholesterol,chsterol,cpd00160,2.1845190417
+577,HumanMilk,Average Human Mother Milk Composition,glyc,Glycerol,glyc,cpd00100,4.3346963545
+578,HumanMilk,Average Human Mother Milk Composition,4abut,GABA,4abut,cpd00281,0.1709484257
+579,HumanMilk,Average Human Mother Milk Composition,crn,Carnitine,crn,cpd00266,0.24895477
+580,HumanMilk,Average Human Mother Milk Composition,cit,Citrate,cit,cpd00137,4.21875
+581,HumanMilk,Average Human Mother Milk Composition,fum,Fumarate,fum,cpd00106,0.0238853503
+582,HumanMilk,Average Human Mother Milk Composition,lac__L,L-Lactate,lac_L,cpd00159,0.6109550562
+583,HumanMilk,Average Human Mother Milk Composition,pyr,Pyruvate,pyr,cpd00020,0.0563575242
+584,HumanMilk,Average Human Mother Milk Composition,succ,Succinate,succ,cpd00036,0.0826121164
+585,HumanMilk,Average Human Mother Milk Composition,ac,Acetate,ac,cpd00029,0.2606635071
+586,HumanMilk,Average Human Mother Milk Composition,but,Butyrate,but,cpd00211,1.387283237
+587,HumanMilk,Average Human Mother Milk Composition,chol,Choline,chol,cpd00098,1.1832061069
+588,HumanMilk,Average Human Mother Milk Composition,etha,Aminoethanol,etha,cpd00162,0.4229220066
+589,HumanMilk,Average Human Mother Milk Composition,inost,L-Inositol,inost,cpd00121,3.1684981685
+590,HumanMilk,Average Human Mother Milk Composition,cytd,Cytidine,cytd,cpd00367,0.0337703615
+591,HumanMilk,Average Human Mother Milk Composition,hxan,HYXN,hxan,cpd00226,0.0228946845
+592,HumanMilk,Average Human Mother Milk Composition,uri,Uridine,uri,cpd00249,0.070005916
+593,HumanMilk,Average Human Mother Milk Composition,taur,Taurine,taur,cpd00210,1.3768115942
+594,HumanMilk,Average Human Mother Milk Composition,for,Formate,for,cpd00047,0.1190941039
+595,HumanMilk,Average Human Mother Milk Composition,meoh,Methanol,meoh,cpd00116,0.2253628724
+596,HumanMilk,Average Human Mother Milk Composition,cmp,CMP,cmp,cpd00046,3.7022165114
+597,HumanMilk,Average Human Mother Milk Composition,ump,UMP,ump,cpd00091,2.623935895
+598,HumanMilk,Average Human Mother Milk Composition,amp,AMP,amp,cpd00018,2.5099681593
+599,HumanMilk,Average Human Mother Milk Composition,imp,IMP,imp,cpd00114,2.8393524284
+600,HumanMilk,Average Human Mother Milk Composition,gmp,GMP,gmp,cpd00126,2.1630094044
+601,HumanMilk,Average Human Mother Milk Composition,udp,UDP,udp,cpd00014,2.32
+602,HumanMilk,Average Human Mother Milk Composition,cdp,CDP,cdp,cpd00096,3.5137138621
+603,HumanMilk,Average Human Mother Milk Composition,adp,ADP,adp,cpd00008,1.2255772647
+604,HumanMilk,Average Human Mother Milk Composition,gdp,GDP,gdp,cpd00031,1.5165876777
+605,HumanMilk,Average Human Mother Milk Composition,dad_2,Deoxyadenosine,dad_2,cpd00438,0.0248756219
+606,HumanMilk,Average Human Mother Milk Composition,ade,Adenine,ade,cpd00128,0.0248756219
+607,HumanMilk,Average Human Mother Milk Composition,thymd,Thymidine,thymd,cpd00184,0.0248756219
+608,HumanMilk,Average Human Mother Milk Composition,gua,Guanine,gua,cpd00207,0.0248756219
+609,HumanMilk,Average Human Mother Milk Composition,dgsn,Deoxyguanosine,dgsn,cpd00277,0.0248756219
+610,HumanMilk,Average Human Mother Milk Composition,csn,Cytosine,csn,cpd00307,0.0248756219
+611,HumanMilk,Average Human Mother Milk Composition,akg,2-Oxoglutarate,akg,cpd00024,0.3789279113
+612,HumanMilk,Average Human Mother Milk Composition,dcyt,Deoxycytidine,dcyt,cpd00654,0.0248756219
+613,HumanMilk,Average Human Mother Milk Composition,ins,Inosine,ins,cpd00246,0.0248756219
+614,HumanMilk,Average Human Mother Milk Composition,mal__L,L-Malate,mal_L,cpd00130,0.0238853503
+615,HumanMilk,Average Human Mother Milk Composition,ura,Uracil,ura,cpd00092,0.0248756219
+616,HumanMilk,Average Human Mother Milk Composition,xan,Xanthine,xan,cpd00309,0.0248756219
+617,HumanMilk,Average Human Mother Milk Composition,nmn,Nicotinamide ribonucleotide,nmn,cpd00355,0.0248756219
+618,HumanMilk,Average Human Mother Milk Composition,adn,Adenosine,adn,cpd00182,0.0248756219
+619,HumanMilk,Average Human Mother Milk Composition,gthrd,GSH,gthrd,cpd00042,1.6777408638
+620,HumanMilk,Average Human Mother Milk Composition,ncam,Nicotinamide,ncam,cpd00133,0.1966490993
+621,HumanMilk,Average Human Mother Milk Composition,gthox,Oxidized glutathione,gthox,cpd00111,1.6777408638
+622,HumanMilk,Average Human Mother Milk Composition,orn,Ornithine,orn,cpd00064,0.3703703704
+623,HumanMilk,Average Human Mother Milk Composition,etoh,Ethanol,etoh,cpd00363,0.1923076923
+624,HumanMilk,Average Human Mother Milk Composition,26dap__M,"meso-2,6-Diaminopimelate",26dap_M,cpd00516,0.1076320939
+625,HumanMilk,Average Human Mother Milk Composition,h,H+,h,cpd00067,0.0099800399
+626,HumanMilk,Average Human Mother Milk Composition,h2o,H2O,h2o,cpd00001,1000.0
+627,HumanMilk,Average Human Mother Milk Composition,acald,Acetaldehyde,acald,cpd00071,0.1923076923
+628,HumanMilk,Average Human Mother Milk Composition,cobalt2,Co2+,cobalt2,cpd00149,1.0
+629,HM.abst,anaerobic rough estimation of human milk components after absorbtion,h2o,H2O,h2o,cpd00001,100.0
+630,HM.abst,anaerobic rough estimation of human milk components after absorbtion,pi,Phosphate,pi,cpd00009,100.0
+631,HM.abst,anaerobic rough estimation of human milk components after absorbtion,co2,CO2,co2,cpd00011,0.1
+632,HM.abst,anaerobic rough estimation of human milk components after absorbtion,nh4,NH3,nh4,cpd00013,100.0
+633,HM.abst,anaerobic rough estimation of human milk components after absorbtion,amp,AMP,amp,cpd00018,0.1
+634,HM.abst,anaerobic rough estimation of human milk components after absorbtion,glu__L,L-Glutamate,glu_L,cpd00023,0.5
+635,HM.abst,anaerobic rough estimation of human milk components after absorbtion,glc__D,D-Glucose,glc_D,cpd00027,2.0
+636,HM.abst,anaerobic rough estimation of human milk components after absorbtion,pheme,Heme,pheme,cpd00028,0.1
+637,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ac,acetate,ac,cpd00029,0.1
+638,HM.abst,anaerobic rough estimation of human milk components after absorbtion,mn2,Mn2+,mn2,cpd00030,100.0
+639,HM.abst,anaerobic rough estimation of human milk components after absorbtion,gly,Glycine,gly,cpd00033,0.1
+640,HM.abst,anaerobic rough estimation of human milk components after absorbtion,zn2,Zn2+,zn2,cpd00034,100.0
+641,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ala__L,L-Alanine,ala_L,cpd00035,0.5
+642,HM.abst,anaerobic rough estimation of human milk components after absorbtion,lys__L,L-Lysine,lys_L,cpd00039,0.1
+643,HM.abst,anaerobic rough estimation of human milk components after absorbtion,asp__L,L-Aspartate,asp_L,cpd00041,0.1
+644,HM.abst,anaerobic rough estimation of human milk components after absorbtion,cmp,CMP,cmp,cpd00046,0.1
+645,HM.abst,anaerobic rough estimation of human milk components after absorbtion,so4,Sulfate,so4,cpd00048,1.0
+646,HM.abst,anaerobic rough estimation of human milk components after absorbtion,arg__L,L-Arginine,arg_L,cpd00051,0.1
+647,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ser__L,L-Serine,ser_L,cpd00054,0.1
+648,HM.abst,anaerobic rough estimation of human milk components after absorbtion,cu2,Cu2+,cu2,cpd00058,100.0
+649,HM.abst,anaerobic rough estimation of human milk components after absorbtion,met__L,L-Methionine,met_L,cpd00060,0.1
+650,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ca2,Ca2+,ca2,cpd00063,100.0
+651,HM.abst,anaerobic rough estimation of human milk components after absorbtion,trp__L,L-Tryptophan,trp_L,cpd00065,0.1
+652,HM.abst,anaerobic rough estimation of human milk components after absorbtion,phe__L,L-Phenylalanine,phe_L,cpd00066,0.1
+653,HM.abst,anaerobic rough estimation of human milk components after absorbtion,h,H+,h,cpd00067,0.1
+654,HM.abst,anaerobic rough estimation of human milk components after absorbtion,tyr__L,L-Tyrosine,tyr_L,cpd00069,0.1
+655,HM.abst,anaerobic rough estimation of human milk components after absorbtion,cys__L,L-Cysteine,cys_L,cpd00084,0.1
+656,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ump,UMP,ump,cpd00091,0.1
+657,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ura,Uracil,ura,cpd00092,0.1
+658,HM.abst,anaerobic rough estimation of human milk components after absorbtion,cl,Cl-,cl,cpd00099,100.0
+659,HM.abst,anaerobic rough estimation of human milk components after absorbtion,leu__L,L-Leucine,leu_L,cpd00107,0.1
+660,HM.abst,anaerobic rough estimation of human milk components after absorbtion,his__L,L-Histidine,his_L,cpd00119,0.1
+661,HM.abst,anaerobic rough estimation of human milk components after absorbtion,gmp,GMP,gmp,cpd00126,0.1
+662,HM.abst,anaerobic rough estimation of human milk components after absorbtion,pro__L,L-Proline,pro_L,cpd00129,0.1
+663,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ppa,Propionate,ppa,cpd00141,0.5
+664,HM.abst,anaerobic rough estimation of human milk components after absorbtion,cobalt2,Co2+,cobalt2,cpd00149,100.0
+665,HM.abst,anaerobic rough estimation of human milk components after absorbtion,val__L,L-Valine,val_L,cpd00156,0.1
+666,HM.abst,anaerobic rough estimation of human milk components after absorbtion,lac__L,L-Lactate,lac_L,cpd00159,1.5
+667,HM.abst,anaerobic rough estimation of human milk components after absorbtion,thr__L,L-Threonine,thr_L,cpd00161,0.1
+668,HM.abst,anaerobic rough estimation of human milk components after absorbtion,adn,Adenosine,adn,cpd00182,0.1
+669,HM.abst,anaerobic rough estimation of human milk components after absorbtion,thymd,Thymidine,thymd,cpd00184,0.1
+670,HM.abst,anaerobic rough estimation of human milk components after absorbtion,k,K+,k,cpd00205,100.0
+671,HM.abst,anaerobic rough estimation of human milk components after absorbtion,lcts,LACT,lcts,cpd00208,1.5
+672,HM.abst,anaerobic rough estimation of human milk components after absorbtion,but,Butyrate,but,cpd00211,0.5
+673,HM.abst,anaerobic rough estimation of human milk components after absorbtion,pydx,Pyridoxal,pydx,cpd00215,0.1
+674,HM.abst,anaerobic rough estimation of human milk components after absorbtion,nac,Niacin,nac,cpd00218,0.1
+675,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ribflv,Riboflavin,ribflv,cpd00220,0.1
+676,HM.abst,anaerobic rough estimation of human milk components after absorbtion,lac__D,D-lactate,lac_D,cpd00221,1.5
+677,HM.abst,anaerobic rough estimation of human milk components after absorbtion,hxan,HYXN,hxan,cpd00226,0.1
+678,HM.abst,anaerobic rough estimation of human milk components after absorbtion,h2s,H2S,h2s,cpd00239,0.1
+679,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ins,Inosine,ins,cpd00246,0.1
+680,HM.abst,anaerobic rough estimation of human milk components after absorbtion,uri,Uridine,uri,cpd00249,0.1
+681,HM.abst,anaerobic rough estimation of human milk components after absorbtion,mg2,Mg,mg2,cpd00254,100.0
+682,HM.abst,anaerobic rough estimation of human milk components after absorbtion,thm,Thiamine,thm,cpd00305,0.1
+683,HM.abst,anaerobic rough estimation of human milk components after absorbtion,gsn,Guanosine,gsn,cpd00311,0.1
+684,HM.abst,anaerobic rough estimation of human milk components after absorbtion,ile__L,L-Isoleucine,ile_L,cpd00322,0.1
+685,HM.abst,anaerobic rough estimation of human milk components after absorbtion,etoh,ethanol,etoh,cpd00363,0.1
+686,HM.abst,anaerobic rough estimation of human milk components after absorbtion,fol,Folate,fol,cpd00393,0.1
+687,HM.abst,anaerobic rough estimation of human milk components after absorbtion,dad_2,Deoxyadenosine,dad_2,cpd00438,0.1
+688,HM.abst,anaerobic rough estimation of human milk components after absorbtion,hg2,Hg2+,hg2,cpd00531,100.0
+689,HM.abst,anaerobic rough estimation of human milk components after absorbtion,lipoate,Lipoate,lipoate,cpd00541,0.1
+690,HM.abst,anaerobic rough estimation of human milk components after absorbtion,pant__R,PAN,pant_R,cpd00644,0.1
+691,HM.abst,anaerobic rough estimation of human milk components after absorbtion,dcyt,Deoxycytidine,dcyt,cpd00654,0.1
+692,HM.abst,anaerobic rough estimation of human milk components after absorbtion,na1,Na+,na1,cpd00971,100.0
+693,HM.abst,anaerobic rough estimation of human milk components after absorbtion,cd2,Cd2+,cd2,cpd01012,100.0
+694,HM.abst,anaerobic rough estimation of human milk components after absorbtion,aso4,Arsenate,aso4,cpd01048,100.0
+695,HM.abst,anaerobic rough estimation of human milk components after absorbtion,cbl1,Vitamin B12,cbl1,cpd03424,0.1
+696,HM.abst,anaerobic rough estimation of human milk components after absorbtion,fe2,Fe2+,fe2,cpd10515,100.0
+697,HM.abst,anaerobic rough estimation of human milk components after absorbtion,fe3,fe3,fe3,cpd10516,100.0
+698,HM.abst,anaerobic rough estimation of human milk components after absorbtion,cro4,chromate,cro4,cpd11595,100.0
+699,HM.abst,anaerobic rough estimation of human milk components after absorbtion,fuc__L,L-Fucose,fuc_L,cpd00751,1.0
+700,HM.abst,anaerobic rough estimation of human milk components after absorbtion,succ,Succinate,succ,cpd00036,0.1
+701,HM.abst,anaerobic rough estimation of human milk components after absorbtion,,2-fucosyllactose,2fl,cpd90001,2.0
+702,HM.abst,anaerobic rough estimation of human milk components after absorbtion,,Lacto-N-tetraose,,cpd03807,1.0
+703,LB_marinos,LB broth composition as modelled by G. Marinos,na1,Na+,na1,cpd00971,187.0
+704,LB_marinos,LB broth composition as modelled by G. Marinos,cl,Cl-,cl,cpd00099,172.0
+705,LB_marinos,LB broth composition as modelled by G. Marinos,ca2,Ca2+,ca2,cpd00063,0.0801
+706,LB_marinos,LB broth composition as modelled by G. Marinos,fe2,Fe2+,fe2,cpd10515,0.2
+707,LB_marinos,LB broth composition as modelled by G. Marinos,fe3,fe3,fe3,cpd10516,0.00453
+708,LB_marinos,LB broth composition as modelled by G. Marinos,so4,Sulfate,so4,cpd00048,0.39
+709,LB_marinos,LB broth composition as modelled by G. Marinos,pi,Phosphate,pi,cpd00009,10.0
+710,LB_marinos,LB broth composition as modelled by G. Marinos,mg2,Mg,mg2,cpd00254,0.235
+711,LB_marinos,LB broth composition as modelled by G. Marinos,k,K+,k,cpd00205,2.58
+712,LB_marinos,LB broth composition as modelled by G. Marinos,ala__L,L-Alanine,ala_L,cpd00035,6.73
+713,LB_marinos,LB broth composition as modelled by G. Marinos,asp__L,L-Aspartate,asp_L,cpd00041,5.9
+714,LB_marinos,LB broth composition as modelled by G. Marinos,asn__L,L-Asparagine,asn_L,cpd00132,0.833
+715,LB_marinos,LB broth composition as modelled by G. Marinos,glu__L,L-Glutamate,glu_L,cpd00023,13.5
+716,LB_marinos,LB broth composition as modelled by G. Marinos,gln__L,L-Glutamine,gln_L,cpd00053,0.137
+717,LB_marinos,LB broth composition as modelled by G. Marinos,gly,Glycine,gly,cpd00033,4.26
+718,LB_marinos,LB broth composition as modelled by G. Marinos,his__L,L-Histidine,his_L,cpd00119,1.64
+719,LB_marinos,LB broth composition as modelled by G. Marinos,ile__L,L-Isoleucine,ile_L,cpd00322,5.34
+720,LB_marinos,LB broth composition as modelled by G. Marinos,leu__L,L-Leucine,leu_L,cpd00107,7.28
+721,LB_marinos,LB broth composition as modelled by G. Marinos,lys__L,L-Lysine,lys_L,cpd00039,5.81
+722,LB_marinos,LB broth composition as modelled by G. Marinos,met__L,L-Methionine,met_L,cpd00060,1.68
+723,LB_marinos,LB broth composition as modelled by G. Marinos,phe__L,L-Phenylalanine,phe_L,cpd00066,3.93
+724,LB_marinos,LB broth composition as modelled by G. Marinos,pro__L,L-Proline,pro_L,cpd00129,6.6
+725,LB_marinos,LB broth composition as modelled by G. Marinos,ser__L,L-Serine,ser_L,cpd00054,2.85
+726,LB_marinos,LB broth composition as modelled by G. Marinos,thr__L,L-Threonine,thr_L,cpd00161,2.18
+727,LB_marinos,LB broth composition as modelled by G. Marinos,trp__L,L-Tryptophan,trp_L,cpd00065,0.514
+728,LB_marinos,LB broth composition as modelled by G. Marinos,tyr__L,L-Tyrosine,tyr_L,cpd00069,1.05
+729,LB_marinos,LB broth composition as modelled by G. Marinos,val__L,L-Valine,val_L,cpd00156,6.53
+730,LB_marinos,LB broth composition as modelled by G. Marinos,arg__L,L-Arginine,arg_L,cpd00051,3.62
+731,LB_marinos,LB broth composition as modelled by G. Marinos,nh4,NH3,nh4,cpd00013,2.38
+732,LB_marinos,LB broth composition as modelled by G. Marinos,pheme,Heme,pheme,cpd00028,0.0157
+733,LB_marinos,LB broth composition as modelled by G. Marinos,cys__L,L-Cysteine,cys_L,cpd00084,0.579
+734,LB_marinos,LB broth composition as modelled by G. Marinos,btn,Biotin,btn,cpd00104,0.00503
+735,LB_marinos,LB broth composition as modelled by G. Marinos,adocbl,Calomide,adocbl,cpd00166,7.38e-06
+736,LB_marinos,LB broth composition as modelled by G. Marinos,fol,Folate,fol,cpd00393,0.01
+737,LB_marinos,LB broth composition as modelled by G. Marinos,pydam,Pyridoxamine,pydam,cpd00419,0.000892
+738,LB_marinos,LB broth composition as modelled by G. Marinos,thm,Thiamine,thm,cpd00305,0.000188
+739,LB_marinos,LB broth composition as modelled by G. Marinos,ribflv,Riboflavin,ribflv,cpd00220,0.000133
+740,LB_marinos,LB broth composition as modelled by G. Marinos,glc__D,D-Glucose,glc_D,cpd00027,1.27
+741,LB_marinos,LB broth composition as modelled by G. Marinos,o2,O2,o2,cpd00007,20.0
+742,LB_marinos,LB broth composition as modelled by G. Marinos,co2,CO2,co2,cpd00011,0.622
+743,LB_marinos,LB broth composition as modelled by G. Marinos,h2o,H2O,h2o,cpd00001,1000.0
+744,LB_marinos,LB broth composition as modelled by G. Marinos,h,H+,h,cpd00067,6.31e-05
+745,LB_marinos,LB broth composition as modelled by G. Marinos,cro4,chromate,cro4,cpd11595,100.0
+746,LB_marinos,LB broth composition as modelled by G. Marinos,mn2,Mn2+,mn2,cpd00030,0.1
+747,LB_marinos,LB broth composition as modelled by G. Marinos,zn2,Zn2+,zn2,cpd00034,0.1
+748,LB_marinos,LB broth composition as modelled by G. Marinos,cu2,Cu2+,cu2,cpd00058,0.1
+749,LB_marinos,LB broth composition as modelled by G. Marinos,cobalt2,Co2+,cobalt2,cpd00149,0.1
+750,LB_marinos,LB broth composition as modelled by G. Marinos,hg2,Hg2+,hg2,cpd00531,100.0
+751,LB_marinos,LB broth composition as modelled by G. Marinos,cd2,Cd2+,cd2,cpd01012,6.67e-05
+752,LB_marinos,LB broth composition as modelled by G. Marinos,arab__L,L-arabinose,arab_L,cpd00224,0.763
+753,LB_marinos,LB broth composition as modelled by G. Marinos,man,D-mannose,man,cpd00138,1.27
+754,LB_marinos,LB broth composition as modelled by G. Marinos,cellb,CELB,cellb,cpd00158,0.707
+755,LB_marinos,LB broth composition as modelled by G. Marinos,ade,Adenine,ade,cpd00128,0.262
+756,LB_marinos,LB broth composition as modelled by G. Marinos,gua,Guanine,gua,cpd00207,0.206
+757,LB_marinos,LB broth composition as modelled by G. Marinos,csn,Cytosine,csn,cpd00307,0.155
+758,LB_marinos,LB broth composition as modelled by G. Marinos,ura,Uracil,ura,cpd00092,0.204
+759,LB_marinos,LB broth composition as modelled by G. Marinos,amp,AMP,amp,cpd00018,0.01
+760,LB_marinos,LB broth composition as modelled by G. Marinos,gmp,GMP,gmp,cpd00126,0.01
+761,LB_marinos,LB broth composition as modelled by G. Marinos,cmp,CMP,cmp,cpd00046,0.01
+762,LB_marinos,LB broth composition as modelled by G. Marinos,ump,UMP,ump,cpd00091,0.01
+763,LB_marinos,LB broth composition as modelled by G. Marinos,sheme,Siroheme,sheme,cpd00557,0.0157
+764,LB_marinos,LB broth composition as modelled by G. Marinos,pnto__R,Pantothenate,pnto_R,cpd00644,0.0029
+765,M9_glc_sw,M9 medium with glucose as sole carbon source,h2o,H2O,h2o,cpd00001,100.0
+766,M9_glc_sw,M9 medium with glucose as sole carbon source,o2,O2,o2,cpd00007,100.0
+767,M9_glc_sw,M9 medium with glucose as sole carbon source,pi,Phosphate,pi,cpd00009,100.0
+768,M9_glc_sw,M9 medium with glucose as sole carbon source,glc__D,D-Glucose,glc_D,cpd00027,10.0
+769,M9_glc_sw,M9 medium with glucose as sole carbon source,mn2,Mn2+,mn2,cpd00030,100.0
+770,M9_glc_sw,M9 medium with glucose as sole carbon source,zn2,Zn2+,zn2,cpd00034,100.0
+771,M9_glc_sw,M9 medium with glucose as sole carbon source,so4,Sulfate,so4,cpd00048,1.0
+772,M9_glc_sw,M9 medium with glucose as sole carbon source,cu2,Cu2+,cu2,cpd00058,100.0
+773,M9_glc_sw,M9 medium with glucose as sole carbon source,ca2,Ca2+,ca2,cpd00063,100.0
+774,M9_glc_sw,M9 medium with glucose as sole carbon source,h,H+,h,cpd00067,1.0
+775,M9_glc_sw,M9 medium with glucose as sole carbon source,cl,Cl-,cl,cpd00099,100.0
+776,M9_glc_sw,M9 medium with glucose as sole carbon source,cobalt2,Co2+,cobalt2,cpd00149,100.0
+777,M9_glc_sw,M9 medium with glucose as sole carbon source,k,K+,k,cpd00205,100.0
+778,M9_glc_sw,M9 medium with glucose as sole carbon source,mg2,Mg,mg2,cpd00254,100.0
+779,M9_glc_sw,M9 medium with glucose as sole carbon source,hg2,Hg2+,hg2,cpd00531,100.0
+780,M9_glc_sw,M9 medium with glucose as sole carbon source,na1,Na+,na1,cpd00971,100.0
+781,M9_glc_sw,M9 medium with glucose as sole carbon source,cd2,Cd2+,cd2,cpd01012,100.0
+782,M9_glc_sw,M9 medium with glucose as sole carbon source,aso4,Arsenate,aso4,cpd01048,100.0
+783,M9_glc_sw,M9 medium with glucose as sole carbon source,fe2,Fe2+,fe2,cpd10515,100.0
+784,M9_glc_sw,M9 medium with glucose as sole carbon source,fe3,fe3,fe3,cpd10516,100.0
+785,M9_glc_sw,M9 medium with glucose as sole carbon source,cro4,chromate,cro4,cpd11595,100.0
+786,M9_glc_sw,M9 medium with glucose as sole carbon source,nh4,NH3,nh4,cpd00013,100.0
+787,M9_glc_sw,M9 medium with glucose as sole carbon source,co2,CO2,co2,cpd00011,1.0
+788,M9_glc_sw,M9 medium with glucose as sole carbon source,mobd,Molybdate,mobd,cpd11574,100.0
+789,M9_succ_sw,M9 medium with succinate as sole carbon source,h2o,H2O,h2o,cpd00001,100.0
+790,M9_succ_sw,M9 medium with succinate as sole carbon source,o2,O2,o2,cpd00007,100.0
+791,M9_succ_sw,M9 medium with succinate as sole carbon source,pi,Phosphate,pi,cpd00009,100.0
+792,M9_succ_sw,M9 medium with succinate as sole carbon source,succ,Succinate,succ,cpd00036,15.0
+793,M9_succ_sw,M9 medium with succinate as sole carbon source,mn2,Mn2+,mn2,cpd00030,100.0
+794,M9_succ_sw,M9 medium with succinate as sole carbon source,zn2,Zn2+,zn2,cpd00034,100.0
+795,M9_succ_sw,M9 medium with succinate as sole carbon source,so4,Sulfate,so4,cpd00048,1.0
+796,M9_succ_sw,M9 medium with succinate as sole carbon source,cu2,Cu2+,cu2,cpd00058,100.0
+797,M9_succ_sw,M9 medium with succinate as sole carbon source,ca2,Ca2+,ca2,cpd00063,100.0
+798,M9_succ_sw,M9 medium with succinate as sole carbon source,h,H+,h,cpd00067,100.0
+799,M9_succ_sw,M9 medium with succinate as sole carbon source,cl,Cl-,cl,cpd00099,100.0
+800,M9_succ_sw,M9 medium with succinate as sole carbon source,cobalt2,Co2+,cobalt2,cpd00149,100.0
+801,M9_succ_sw,M9 medium with succinate as sole carbon source,k,K+,k,cpd00205,100.0
+802,M9_succ_sw,M9 medium with succinate as sole carbon source,mg2,Mg,mg2,cpd00254,100.0
+803,M9_succ_sw,M9 medium with succinate as sole carbon source,hg2,Hg2+,hg2,cpd00531,100.0
+804,M9_succ_sw,M9 medium with succinate as sole carbon source,na1,Na+,na1,cpd00971,100.0
+805,M9_succ_sw,M9 medium with succinate as sole carbon source,cd2,Cd2+,cd2,cpd01012,100.0
+806,M9_succ_sw,M9 medium with succinate as sole carbon source,aso4,Arsenate,aso4,cpd01048,100.0
+807,M9_succ_sw,M9 medium with succinate as sole carbon source,fe2,Fe2+,fe2,cpd10515,100.0
+808,M9_succ_sw,M9 medium with succinate as sole carbon source,fe3,fe3,fe3,cpd10516,100.0
+809,M9_succ_sw,M9 medium with succinate as sole carbon source,cro4,chromate,cro4,cpd11595,100.0
+810,M9_succ_sw,M9 medium with succinate as sole carbon source,nh4,NH3,nh4,cpd00013,100.0
+811,M9_succ_sw,M9 medium with succinate as sole carbon source,co2,CO2,co2,cpd00011,1.0
+812,M9_succ_sw,M9 medium with succinate as sole carbon source,mobd,Molybdate,mobd,cpd11574,100.0
+813,Complete,complete,12dgr180,"1,2-Diacyl-sn-glycerol (dioctadecanoyl, n-C18:0)",12dgr180,cpd15311,1.0
+814,Complete,complete,15dap,"1,5-Diaminopentane",15dap,cpd01155,1.0
+815,Complete,complete,26dap__M,"meso-2,6-Diaminoheptanedioate",26dap_M,cpd00516,1.0
+816,Complete,complete,2dmmq8,2-Demethylmenaquinone 8,2dmmq8,cpd15352,1.0
+817,Complete,complete,2obut,2-Oxobutanoate,2obut,cpd00094,1.0
+818,Complete,complete,3mop,3-methyl-2-oxopentanoate,3mop,cpd00508,1.0
+819,Complete,complete,4abz,4 Aminobenzoate,4abz,cpd00443,1.0
+820,Complete,complete,4hbz,4-Hydroxybenzoate,4hbz,cpd00136,1.0
+821,Complete,complete,ac,Acetate,ac,cpd00029,1.0
+822,Complete,complete,acgam,N-Acetyl-D-glucosamine,acgam,cpd00122,1.0
+823,Complete,complete,acmana,N-acetyl-D-mannosamine,acmana,cpd00492,1.0
+824,Complete,complete,acnam,N-Acetylneuraminate,acnam,cpd00232,1.0
+825,Complete,complete,ade,Adenine,ade,cpd00128,1.0
+826,Complete,complete,adn,Adenosine,adn,cpd00182,1.0
+827,Complete,complete,adpcbl,Adenosylcobalamin,adpcbl,cpd00166,1.0
+828,Complete,complete,ala__D,D-Alanine,ala_D,cpd00117,1.0
+829,Complete,complete,ala__L,L-alanine,ala_L,cpd00035,1.0
+830,Complete,complete,amet,S-Adenosyl-L-methionine,amet,cpd00017,1.0
+831,Complete,complete,amp,AMP,amp,cpd00018,1.0
+832,Complete,complete,amylopect900,Amylopectin (900 glucose units),amylopect900,cpd00265,1.0
+833,Complete,complete,amylose300,Amylose,amylose300,cpd11735,1.0
+834,Complete,complete,arab__D,D-Arabinose,arab_D,cpd00185,1.0
+835,Complete,complete,arab__L,L-Arabinose,arab_L,cpd19109,1.0
+836,Complete,complete,arabinan101,Arabinan,arabinan101,cpd15928,1.0
+837,Complete,complete,arabinogal,Larch arabinogalactan,arabinogal,cpd11699,1.0
+838,Complete,complete,arabinoxyl,Arabinoxylan,arabinoxyl,cpd22387,1.0
+839,Complete,complete,arg__L,L-Arginine,arg_L,cpd00051,1.0
+840,Complete,complete,asn__L,L-asparagine,asn_L,cpd00132,1.0
+841,Complete,complete,asp__L,L-Aspartate,asp_L,cpd00041,1.0
+842,Complete,complete,bglc,beta glucans,bglc,cpd22448,1.0
+843,Complete,complete,btn,Biotin,btn,cpd00104,1.0
+844,Complete,complete,but,Butyrate (n-C4:0),but,cpd00211,1.0
+845,Complete,complete,ca2,Calcium,ca2,cpd00063,100.0
+846,Complete,complete,cbl1,Cob(I)alamin,cbl1,cpd00635,1.0
+847,Complete,complete,cbl2,Cob(II)alamin,cbl2,cpd00423,1.0
+848,Complete,complete,cellb,Cellobiose,cellb,cpd03845,1.0
+849,Complete,complete,cellul,Cellulose,cellul,cpd00158,1.0
+850,Complete,complete,cgly,Cys-Gly,cgly,cpd01017,1.0
+851,Complete,complete,chol,Choline,chol,cpd00098,1.0
+852,Complete,complete,chor,Chorismate,chor,cpd00216,1.0
+853,Complete,complete,chsterol,cholesterol,chsterol,cpd00160,1.0
+854,Complete,complete,cit,Citrate,cit,cpd00137,1.0
+855,Complete,complete,cl,Chloride,cl,cpd00099,100.0
+856,Complete,complete,cobalt2,Co2+,cobalt2,cpd00149,100.0
+857,Complete,complete,csn,Cytosine,csn,cpd00307,1.0
+858,Complete,complete,cu2,Cu2+,cu2,cpd00058,100.0
+859,Complete,complete,cys__L,L-cysteine,cys_L,cpd00084,1.0
+860,Complete,complete,cytd,Cytidine,cytd,cpd00367,1.0
+861,Complete,complete,dad__2,2-deoxyadenosine,dad_2,cpd00438,1.0
+862,Complete,complete,dcyt,Deoxycytidine,dcyt,cpd00654,1.0
+863,Complete,complete,ddca,laurate,ddca,cpd01741,1.0
+864,Complete,complete,dextran40,"Dextran 40, (1,6-alpha-D-Glucan)",dextran40,cpd11658,1.0
+865,Complete,complete,dgsn,Deoxyguanosine,dgsn,cpd00277,1.0
+866,Complete,complete,drib,Deoxyribose,drib,cpd01242,1.0
+867,Complete,complete,etoh,Ethanol,etoh,cpd00363,1.0
+868,Complete,complete,fald,formaldehyde,fald,cpd00055,1.0
+869,Complete,complete,fe2,fe2,fe2,cpd10515,1.0
+870,Complete,complete,fe3,Fe3+,fe3,cpd10516,100.0
+871,Complete,complete,fol,Folate,fol,cpd00393,1.0
+872,Complete,complete,for,Formate,for,cpd00047,1.0
+873,Complete,complete,fru,D-Fructose,fru,cpd00082,1.0
+874,Complete,complete,fuc__L,L-Fucose,fuc_L,cpd00751,1.0
+875,Complete,complete,fum,fumarate,fum,cpd00106,1.0
+876,Complete,complete,gal,D-Galactose,gal,cpd00108,1.0
+877,Complete,complete,galmannan,Galactomannan,galmannan,cpd00656,1.0
+878,Complete,complete,gam,D-Glucosamine,gam,cpd00276,1.0
+879,Complete,complete,glc__D,D-Glucose,glc_D,cpd00027,1.0
+880,Complete,complete,glcmannan,Glucomannan,glcmannan,cpd11955,1.0
+881,Complete,complete,glcn,D-Gluconate,glcn,cpd00222,1.0
+882,Complete,complete,gln__L,L-glutamine,gln_L,cpd00053,1.0
+883,Complete,complete,glu__L,L-Glutamate,glu_L,cpd00023,1.0
+884,Complete,complete,gly,Glycine,gly,cpd00033,1.0
+885,Complete,complete,glyc,Glycerol,glyc,cpd00100,1.0
+886,Complete,complete,glyc3p,glyc3p[e],glyc3p,cpd00080,1.0
+887,Complete,complete,glygn2,"glycogen, structure 2 (glycogenin-1,6-{7[1,4-Glc], 4[1,4-Glc]})",glygn2,cpd00155,1.0
+888,Complete,complete,gsn,Guanosine,gsn,cpd00311,1.0
+889,Complete,complete,gthox,Oxidized glutathione,gthox,cpd00111,1.0
+890,Complete,complete,gthrd,Reduced glutathione,gthrd,cpd00042,1.0
+891,Complete,complete,gua,Guanine,gua,cpd00207,1.0
+892,Complete,complete,h,proton,h,cpd00067,100.0
+893,Complete,complete,h2,H2,h2,cpd11640,1.0
+894,Complete,complete,h2o,H2O,h2o,cpd00001,1000.0
+895,Complete,complete,h2s,Hydrogen sulfide,h2s,cpd00239,1.0
+896,Complete,complete,hdca,Hexadecanoate (n-C16:0),hdca,cpd00214,1.0
+897,Complete,complete,his__L,L-histidine,his_L,cpd00119,1.0
+898,Complete,complete,homogal,Homogalacturonan,homogal,,1.0
+899,Complete,complete,hxan,Hypoxanthine,hxan,cpd00226,1.0
+900,Complete,complete,ile__L,L-Isoleucine,ile_L,cpd00322,1.0
+901,Complete,complete,indole,Indole,indole,cpd00359,1.0
+902,Complete,complete,inulin,Inulin,inulin,cpd11602,1.0
+903,Complete,complete,k,K+,k,cpd00205,100.0
+904,Complete,complete,kestopt,Kestopentaose,kestopt,,1.0
+905,Complete,complete,lanost,Lanosterol,lanost,cpd01188,1.0
+906,Complete,complete,lcts,Lactose,lcts,cpd00208,1.0
+907,Complete,complete,leu__L,L-Leucine,leu_L,cpd00107,1.0
+908,Complete,complete,levan1000,Levan,levan1000,cpd27401,1.0
+909,Complete,complete,lichn,Lichenin,lichn,cpd27402,1.0
+910,Complete,complete,lmn30,Laminarin,lmn30,cpd11748,1.0
+911,Complete,complete,lys__L,L-Lysine,lys_L,cpd00039,1.0
+912,Complete,complete,malt,Maltose,malt,cpd00179,1.0
+913,Complete,complete,malttr,Maltotriose,malttr,cpd01262,1.0
+914,Complete,complete,man,D-Mannose,man,cpd00138,1.0
+915,Complete,complete,melib,Melibiose,melib,cpd03198,1.0
+916,Complete,complete,meoh,methanol,meoh,cpd00116,1.0
+917,Complete,complete,met__L,L-Methionine,met_L,cpd00060,1.0
+918,Complete,complete,metsox__S__L,L-Methionine S-oxide,metsox_S_L,cpd01914,1.0
+919,Complete,complete,mg2,Mg,mg2,cpd00254,100.0
+920,Complete,complete,mn2,Mn2+,mn2,cpd00030,100.0
+921,Complete,complete,mnl,D-Mannitol,mnl,cpd00314,1.0
+922,Complete,complete,mobd,Molybdate,mobd,cpd11574,100.0
+923,Complete,complete,mqn7,Menaquinone 7,mqn7,cpd11606,1.0
+924,Complete,complete,mqn8,Menaquinone 8,mqn8,cpd15500,1.0
+925,Complete,complete,na1,Sodium,na1,cpd00971,100.0
+926,Complete,complete,nac,Nicotinate,nac,cpd00218,1.0
+927,Complete,complete,ncam,Nicotinamide,ncam,cpd00133,1.0
+928,Complete,complete,nmn,NMN,nmn,cpd00355,1.0
+929,Complete,complete,no2,Nitrite,no2,cpd00075,1.0
+930,Complete,complete,ocdca,echange reaction for octadecanoate (n-C18:0),ocdca,cpd01080,1.0
+931,Complete,complete,ocdcea,octadecenoate (n-C18:1),ocdcea,cpd00536,1.0
+932,Complete,complete,orn,Ornithine,orn,cpd00064,1.0
+933,Complete,complete,oxa,Oxalate,oxa,cpd00180,1.0
+934,Complete,complete,pect,pectins,pect,cpd11601,1.0
+935,Complete,complete,phe__L,L-phenylalanine,phe_L,cpd00066,1.0
+936,Complete,complete,pheme,heme,pheme,cpd00028,1.0
+937,Complete,complete,pi,Phosphate,pi,cpd00009,100.0
+938,Complete,complete,pime,Pimelate,pime,cpd01727,1.0
+939,Complete,complete,pnto__R,(R)-Pantothenate,pnto_R,cpd00644,1.0
+940,Complete,complete,pro__L,L-Proline,pro_L,cpd00129,1.0
+941,Complete,complete,ptrc,"1,4-butanediammonium",ptrc,cpd00118,1.0
+942,Complete,complete,pullulan1200,Pullulan,pullulan1200,cpd27994,1.0
+943,Complete,complete,pydam,Pyridoxamine,pydam,cpd00419,1.0
+944,Complete,complete,pydx,Pyridoxal,pydx,cpd00215,1.0
+945,Complete,complete,pydxn,Pyridoxine,pydxn,cpd00263,1.0
+946,Complete,complete,q8,Ubiquinone-8,q8,cpd15560,1.0
+947,Complete,complete,raffin,Raffinose,raffin,cpd00382,1.0
+948,Complete,complete,rhamnogalurI,Rhamnogalacturonan I,rhamnogalurI,,1.0
+949,Complete,complete,rhamnogalurII,Rhamnogalacturonan II,rhamnogalurII,,1.0
+950,Complete,complete,rib__D,ribose,rib_D,cpd00105,1.0
+951,Complete,complete,ribflv,Riboflavin,ribflv,cpd00220,1.0
+952,Complete,complete,rmn,L-Rhamnose,rmn,cpd00396,1.0
+953,Complete,complete,sbt__L,L-Sorbitol,sbt_L,cpd01187,1.0
+954,Complete,complete,sel,Selenate,sel,cpd03396,1.0
+955,Complete,complete,ser__L,L-serine,ser_L,cpd00054,1.0
+956,Complete,complete,sheme,Siroheme,sheme,cpd00557,1.0
+957,Complete,complete,so4,Sulfate,so4,cpd00048,100.0
+958,Complete,complete,spmd,spermidine(3+),spmd,cpd00264,1.0
+959,Complete,complete,starch1200,Starch,starch1200,cpd28193,1.0
+960,Complete,complete,strch1,"starch, structure 1 (1,6-{7[1,4-Glc], 4[1,4-Glc]})",strch1,cpd11657,1.0
+961,Complete,complete,sucr,Sucrose,sucr,cpd00076,1.0
+962,Complete,complete,thm,Thiamin,thm,cpd00305,1.0
+963,Complete,complete,thr__L,L-Threonine,thr_L,cpd00161,1.0
+964,Complete,complete,thymd,Thymidine,thymd,cpd00184,1.0
+965,Complete,complete,tre,Trehalose,tre,cpd00794,1.0
+966,Complete,complete,trp__L,L-Tryptophan,trp_L,cpd00065,1.0
+967,Complete,complete,ttdca,tetradecanoate (n-C14:0),ttdca,cpd03847,1.0
+968,Complete,complete,tyr__L,L-Tyrosine,tyr_L,cpd00069,1.0
+969,Complete,complete,ura,Uracil,ura,cpd00092,1.0
+970,Complete,complete,uri,Uridine,uri,cpd00249,1.0
+971,Complete,complete,val__L,L-Valine,val_L,cpd00156,1.0
+972,Complete,complete,xan,xan[e],xan,cpd00309,1.0
+973,Complete,complete,xyl__D,D-Xylose,xyl_D,cpd00154,1.0
+974,Complete,complete,xylan,Xylan,xylan,cpd11732,1.0
+975,Complete,complete,xyluglc,Xyluglucan,xyluglc,cpd11752,1.0
+976,Complete,complete,zn2,Zn2+,zn2,cpd00034,100.0
+977,Complete2,complete2,acac,Acetoacetate,acac,cpd00142,1.0
+978,Complete2,complete2,acald,Acetaldehyde,acald,cpd00071,1.0
+979,Complete2,complete2,acgam,N-Acetyl-D-glucosamine,acgam,cpd00122,1.0
+980,Complete2,complete2,acmana,N-acetyl-D-mannosamine,acmana,cpd00492,1.0
+981,Complete2,complete2,actn__R,ACTN,actn_R,cpd00361,1.0
+982,Complete2,complete2,ala__D,D-Alanine,ala_D,cpd00117,1.0
+983,Complete2,complete2,ala__L,L-alanine,ala_L,cpd00035,1.0
+984,Complete2,complete2,alaala,Ala-Ala,alaala,cpd00731,1.0
+985,Complete2,complete2,amp,AMP,amp,cpd00018,1.0
+986,Complete2,complete2,arab__L,L-Arabinose,arab_L,cpd19109,1.0
+987,Complete2,complete2,arg__L,L-Arginine,arg_L,cpd00051,1.0
+988,Complete2,complete2,asn__L,L-asparagine,asn_L,cpd00132,1.0
+989,Complete2,complete2,asp__L,L-Aspartate,asp_L,cpd00041,1.0
+990,Complete2,complete2,but,Butyrate (n-C4:0),but,cpd00211,1.0
+991,Complete2,complete2,bz,Benzoate,bz,cpd00153,1.0
+992,Complete2,complete2,ca2,Calcium,ca2,cpd00063,100.0
+993,Complete2,complete2,cellb,Cellobiose,cellb,cpd03845,1.0
+994,Complete2,complete2,cgly,Cys-Gly,cgly,cpd01017,1.0
+995,Complete2,complete2,cit,Citrate,cit,cpd00137,1.0
+996,Complete2,complete2,cl,Chloride,cl,cpd00099,100.0
+997,Complete2,complete2,cmp,CMP,cmp,cpd00046,1.0
+998,Complete2,complete2,co2,CO2,co2,cpd00011,1.0
+999,Complete2,complete2,coa,CoA,coa,cpd00010,1.0
+1000,Complete2,complete2,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1001,Complete2,complete2,cu2,Cu2+,cu2,cpd00058,100.0
+1002,Complete2,complete2,ddca,laurate,ddca,cpd01741,1.0
+1003,Complete2,complete2,din,Deoxyinosine,din,cpd03279,1.0
+1004,Complete2,complete2,drib,Deoxyribose,drib,cpd01242,1.0
+1005,Complete2,complete2,etha,Aminoethanol,etha,cpd00162,1.0
+1006,Complete2,complete2,fe2,fe2,fe2,cpd10515,100.0
+1007,Complete2,complete2,fe3,Fe3+,fe3,cpd10516,100.0
+1008,Complete2,complete2,fol,Folate,fol,cpd00393,1.0
+1009,Complete2,complete2,fru,D-Fructose,fru,cpd00082,1.0
+1010,Complete2,complete2,gal,D-Galactose,gal,cpd00108,1.0
+1011,Complete2,complete2,galt,Galactitol,galt,cpd01171,1.0
+1012,Complete2,complete2,gam,D-Glucosamine,gam,cpd00276,1.0
+1013,Complete2,complete2,glc__D,D-Glucose,glc_D,cpd00027,1.0
+1014,Complete2,complete2,gln__L,L-glutamine,gln_L,cpd00053,1.0
+1015,Complete2,complete2,glu__L,L-Glutamate,glu_L,cpd00023,1.0
+1016,Complete2,complete2,gly,Glycine,gly,cpd00033,1.0
+1017,Complete2,complete2,glyald,D-Glyceraldehyde,glyald,cpd00448,1.0
+1018,Complete2,complete2,glyc,Glycerol,glyc,cpd00100,1.0
+1019,Complete2,complete2,glyc3p,glycerol-3-phosphate,glyc3p,cpd00080,1.0
+1020,Complete2,complete2,gsn,Guanosine,gsn,cpd00311,1.0
+1021,Complete2,complete2,gua,Guanine,gua,cpd00207,1.0
+1022,Complete2,complete2,h,proton,h,cpd00067,100.0
+1023,Complete2,complete2,h2o,H2O,h2o,cpd00001,1000.0
+1024,Complete2,complete2,h2s,Hydrogen sulfide,h2s,cpd00239,1.0
+1025,Complete2,complete2,his__L,L-histidine,his_L,cpd00119,1.0
+1026,Complete2,complete2,hxan,Hypoxanthine,hxan,cpd00226,1.0
+1027,Complete2,complete2,ile__L,L-Isoleucine,ile_L,cpd00322,1.0
+1028,Complete2,complete2,inost,L-Inositol,inost,cpd00121,1.0
+1029,Complete2,complete2,k,K+,k,cpd00205,100.0
+1030,Complete2,complete2,LalaDgluMdapDala,"L-alanine-D-glutamate-meso-2,6-diaminoheptanedioate-D-alanine",LalaDgluMdapDala,cpd15387,0.1
+1031,Complete2,complete2,leu__L,L-Leucine,leu_L,cpd00107,1.0
+1032,Complete2,complete2,lys__L,L-Lysine,lys_L,cpd00039,1.0
+1033,Complete2,complete2,mal__L,L-Malate,mal_L,cpd00130,1.0
+1034,Complete2,complete2,malt,Maltose,malt,cpd00179,1.0
+1035,Complete2,complete2,man,D-Mannose,man,cpd00138,1.0
+1036,Complete2,complete2,met__L,L-Methionine,met_L,cpd00060,1.0
+1037,Complete2,complete2,metox__R,L methionine R oxide,metox_R,cpd11576,1.0
+1038,Complete2,complete2,mg2,Mg,mg2,cpd00254,100.0
+1039,Complete2,complete2,mn2,Mn2+,mn2,cpd00030,100.0
+1040,Complete2,complete2,mnl,D-Mannitol,mnl,cpd00314,1.0
+1041,Complete2,complete2,nh4,NH3,nh4,cpd00013,100.0
+1042,Complete2,complete2,nmn,NMN,nmn,cpd00355,1.0
+1043,Complete2,complete2,o2,O2,o2,cpd00007,100.0
+1044,Complete2,complete2,orn,Ornithine,orn,cpd00064,1.0
+1045,Complete2,complete2,phe__L,L-phenylalanine,phe_L,cpd00066,1.0
+1046,Complete2,complete2,pi,Phosphate,pi,cpd00009,100.0
+1047,Complete2,complete2,pro__L,L-Proline,pro_L,cpd00129,1.0
+1048,Complete2,complete2,progly,L-Prolinylglycine,progly,cpd15551,1.0
+1049,Complete2,complete2,ptrc,"1,4-butanediammonium",ptrc,cpd00118,1.0
+1050,Complete2,complete2,rib__D,ribose,rib_D,cpd00105,1.0
+1051,Complete2,complete2,ribflv,Riboflavin,ribflv,cpd00220,1.0
+1052,Complete2,complete2,s,Sulfur,s,cpd00074,1.0
+1053,Complete2,complete2,ser__L,L-serine,ser_L,cpd00054,1.0
+1054,Complete2,complete2,skm,Shikimate,skm,cpd00383,1.0
+1055,Complete2,complete2,so4,Sulfate,so4,cpd00048,100.0
+1056,Complete2,complete2,spmd,spermidine(3+),spmd,cpd00264,1.0
+1057,Complete2,complete2,succ,Succinate,succ,cpd00036,1.0
+1058,Complete2,complete2,sucr,Sucrose,sucr,cpd00076,1.0
+1059,Complete2,complete2,tet,Tetrathionate,tet,cpd01414,1.0
+1060,Complete2,complete2,thm,Thiamin,thm,cpd00305,1.0
+1061,Complete2,complete2,thr__L,L-Threonine,thr_L,cpd00161,1.0
+1062,Complete2,complete2,thymd,Thymidine,thymd,cpd00184,1.0
+1063,Complete2,complete2,tre,Trehalose,tre,cpd00794,1.0
+1064,Complete2,complete2,trp__L,L-Tryptophan,trp_L,cpd00065,1.0
+1065,Complete2,complete2,tyr__L,L-Tyrosine,tyr_L,cpd00069,1.0
+1066,Complete2,complete2,uaagmda,"Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-L-ala-D-glu-meso-2,6-diaminopimeloyl-D-ala-D-ala",uaagmda,cpd03495,0.1
+1067,Complete2,complete2,udcpp,Undecaprenyl phosphate,udcpp,cpd00286,1.0
+1068,Complete2,complete2,urea,Urea,urea,cpd00073,1.0
+1069,Complete2,complete2,val__L,L-Valine,val_L,cpd00156,1.0
+1070,Complete2,complete2,zn2,Zn2+,zn2,cpd00034,100.0
+1071,Complete2,complete2,mobd,Molybdate,mobd,cpd11574,1.0
+1072,Complete2,complete2,hg2,Hg2+,hg2,cpd00531,100.0
+1073,Complete2,complete2,na1,Na+,na1,cpd00971,100.0
+1074,Complete2,complete2,aso4,Arsenate,aso4,cpd01048,100.0
+1075,Complete2,complete2,cro4,chromate,cro4,cpd11595,100.0
+1076,GS_MM_glc,GapSeq minimal media with glucose as carbon source,h2o,H2O,h2o,cpd00001,100.0
+1077,GS_MM_glc,GapSeq minimal media with glucose as carbon source,o2,O2,o2,cpd00007,10.0
+1078,GS_MM_glc,GapSeq minimal media with glucose as carbon source,pi,Phosphate,pi,cpd00009,100.0
+1079,GS_MM_glc,GapSeq minimal media with glucose as carbon source,glc__D,D-Glucose,glc_D,cpd00027,5.0
+1080,GS_MM_glc,GapSeq minimal media with glucose as carbon source,mn2,Mn2+,mn2,cpd00030,100.0
+1081,GS_MM_glc,GapSeq minimal media with glucose as carbon source,zn2,Zn2+,zn2,cpd00034,100.0
+1082,GS_MM_glc,GapSeq minimal media with glucose as carbon source,so4,Sulfate,so4,cpd00048,100.0
+1083,GS_MM_glc,GapSeq minimal media with glucose as carbon source,cu2,Cu2+,cu2,cpd00058,100.0
+1084,GS_MM_glc,GapSeq minimal media with glucose as carbon source,ca2,Ca2+,ca2,cpd00063,100.0
+1085,GS_MM_glc,GapSeq minimal media with glucose as carbon source,h,H+,h,cpd00067,100.0
+1086,GS_MM_glc,GapSeq minimal media with glucose as carbon source,cl,Cl-,cl,cpd00099,100.0
+1087,GS_MM_glc,GapSeq minimal media with glucose as carbon source,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1088,GS_MM_glc,GapSeq minimal media with glucose as carbon source,k,K+,k,cpd00205,100.0
+1089,GS_MM_glc,GapSeq minimal media with glucose as carbon source,mg2,Mg,mg2,cpd00254,100.0
+1090,GS_MM_glc,GapSeq minimal media with glucose as carbon source,hg2,Hg2+,hg2,cpd00531,100.0
+1091,GS_MM_glc,GapSeq minimal media with glucose as carbon source,na1,Na+,na1,cpd00971,100.0
+1092,GS_MM_glc,GapSeq minimal media with glucose as carbon source,cd2,Cd2+,cd2,cpd01012,100.0
+1093,GS_MM_glc,GapSeq minimal media with glucose as carbon source,aso4,Arsenate,aso4,cpd01048,100.0
+1094,GS_MM_glc,GapSeq minimal media with glucose as carbon source,fe2,Fe2+,fe2,cpd10515,100.0
+1095,GS_MM_glc,GapSeq minimal media with glucose as carbon source,fe3,fe3,fe3,cpd10516,100.0
+1096,GS_MM_glc,GapSeq minimal media with glucose as carbon source,cro4,chromate,cro4,cpd11595,100.0
+1097,GS_MM_glc,GapSeq minimal media with glucose as carbon source,nh4,NH3,nh4,cpd00013,100.0
+1098,GS_MM_glc,GapSeq minimal media with glucose as carbon source,co2,CO2,co2,cpd00011,10.0
+1099,GS_MM_glc,GapSeq minimal media with glucose as carbon source,mobd,Molybdate,mobd,cpd11574,100.0
+1100,GS_MM_succ,GapSeq minimal media with succinate as carbon source,h2o,H2O,h2o,cpd00001,100.0
+1101,GS_MM_succ,GapSeq minimal media with succinate as carbon source,o2,O2,o2,cpd00007,10.0
+1102,GS_MM_succ,GapSeq minimal media with succinate as carbon source,pi,Phosphate,pi,cpd00009,100.0
+1103,GS_MM_succ,GapSeq minimal media with succinate as carbon source,succ,Succinate,succ,cpd00036,10.0
+1104,GS_MM_succ,GapSeq minimal media with succinate as carbon source,mn2,Mn2+,mn2,cpd00030,100.0
+1105,GS_MM_succ,GapSeq minimal media with succinate as carbon source,zn2,Zn2+,zn2,cpd00034,100.0
+1106,GS_MM_succ,GapSeq minimal media with succinate as carbon source,so4,Sulfate,so4,cpd00048,100.0
+1107,GS_MM_succ,GapSeq minimal media with succinate as carbon source,cu2,Cu2+,cu2,cpd00058,100.0
+1108,GS_MM_succ,GapSeq minimal media with succinate as carbon source,ca2,Ca2+,ca2,cpd00063,100.0
+1109,GS_MM_succ,GapSeq minimal media with succinate as carbon source,h,H+,h,cpd00067,100.0
+1110,GS_MM_succ,GapSeq minimal media with succinate as carbon source,cl,Cl-,cl,cpd00099,100.0
+1111,GS_MM_succ,GapSeq minimal media with succinate as carbon source,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1112,GS_MM_succ,GapSeq minimal media with succinate as carbon source,k,K+,k,cpd00205,100.0
+1113,GS_MM_succ,GapSeq minimal media with succinate as carbon source,mg2,Mg,mg2,cpd00254,100.0
+1114,GS_MM_succ,GapSeq minimal media with succinate as carbon source,hg2,Hg2+,hg2,cpd00531,100.0
+1115,GS_MM_succ,GapSeq minimal media with succinate as carbon source,na1,Na+,na1,cpd00971,100.0
+1116,GS_MM_succ,GapSeq minimal media with succinate as carbon source,cd2,Cd2+,cd2,cpd01012,100.0
+1117,GS_MM_succ,GapSeq minimal media with succinate as carbon source,aso4,Arsenate,aso4,cpd01048,100.0
+1118,GS_MM_succ,GapSeq minimal media with succinate as carbon source,fe2,Fe2+,fe2,cpd10515,100.0
+1119,GS_MM_succ,GapSeq minimal media with succinate as carbon source,fe3,fe3,fe3,cpd10516,100.0
+1120,GS_MM_succ,GapSeq minimal media with succinate as carbon source,cro4,chromate,cro4,cpd11595,100.0
+1121,GS_MM_succ,GapSeq minimal media with succinate as carbon source,nh4,NH3,nh4,cpd00013,100.0
+1122,GS_MM_succ,GapSeq minimal media with succinate as carbon source,co2,CO2,co2,cpd00011,10.0
+1123,GS_MM_succ,GapSeq minimal media with succinate as carbon source,mobd,Molybdate,mobd,cpd11574,100.0
+1124,SW_anorganics,Only anorganic ions and gases for negative test,mn2,Mn2+,mn2,cpd00030,100.0
+1125,SW_anorganics,Only anorganic ions and gases for negative test,zn2,Zn2+,zn2,cpd00034,100.0
+1126,SW_anorganics,Only anorganic ions and gases for negative test,so4,Sulfate,so4,cpd00048,100.0
+1127,SW_anorganics,Only anorganic ions and gases for negative test,cu2,Cu2+,cu2,cpd00058,100.0
+1128,SW_anorganics,Only anorganic ions and gases for negative test,ca2,Ca2+,ca2,cpd00063,100.0
+1129,SW_anorganics,Only anorganic ions and gases for negative test,h,H+,h,cpd00067,100.0
+1130,SW_anorganics,Only anorganic ions and gases for negative test,cl,Cl-,cl,cpd00099,100.0
+1131,SW_anorganics,Only anorganic ions and gases for negative test,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1132,SW_anorganics,Only anorganic ions and gases for negative test,k,K+,k,cpd00205,100.0
+1133,SW_anorganics,Only anorganic ions and gases for negative test,mg2,Mg,mg2,cpd00254,100.0
+1134,SW_anorganics,Only anorganic ions and gases for negative test,hg2,Hg2+,hg2,cpd00531,100.0
+1135,SW_anorganics,Only anorganic ions and gases for negative test,na1,Na+,na1,cpd00971,100.0
+1136,SW_anorganics,Only anorganic ions and gases for negative test,cd2,Cd2+,cd2,cpd01012,100.0
+1137,SW_anorganics,Only anorganic ions and gases for negative test,aso4,Arsenate,aso4,cpd01048,100.0
+1138,SW_anorganics,Only anorganic ions and gases for negative test,fe2,Fe2+,fe2,cpd10515,100.0
+1139,SW_anorganics,Only anorganic ions and gases for negative test,fe3,fe3,fe3,cpd10516,100.0
+1140,SW_anorganics,Only anorganic ions and gases for negative test,cro4,chromate,cro4,cpd11595,100.0
+1141,SW_anorganics,Only anorganic ions and gases for negative test,nh4,NH3,nh4,cpd00013,100.0
+1142,SW_anorganics,Only anorganic ions and gases for negative test,co2,CO2,co2,cpd00011,100.0
+1143,SW_anorganics,Only anorganic ions and gases for negative test,mobd,Molybdate,mobd,cpd11574,100.0
+1144,SW_anorganics,Only anorganic ions and gases for negative test,o2,O2,o2,cpd00007,100.0
+1145,SW_anorganics,Only anorganic ions and gases for negative test,h2o,H2O,h2o,cpd00001,100.0
+1146,SW_anorganics,Only anorganic ions and gases for negative test,pi,Phosphate,pi,cpd00009,100.0
+1147,SW_anorganics,Only anorganic ions and gases for negative test,so4,Sulfate,so4,cpd00048,100.0
+1148,SW_anorganics,Only anorganic ions and gases for negative test,nh4,NH3,nh4,cpd00013,100.0
+1149,SW_anorganics,Only anorganic ions and gases for negative test,cro4,chromate,cro4,cpd11595,100.0
+1150,FOOD_kombucha,Black Tea and sucrose,h2o,H2O,h2o,cpd00001,100.0
+1151,FOOD_kombucha,Black Tea and sucrose,o2,O2,o2,cpd00007,12.5
+1152,FOOD_kombucha,Black Tea and sucrose,pi,Phosphate,pi,cpd00009,100.0
+1153,FOOD_kombucha,Black Tea and sucrose,glc__D,D-Glucose,glc_D,cpd00027,5.0
+1154,FOOD_kombucha,Black Tea and sucrose,fru,D-Fructose,fru,cpd00082,5.0
+1155,FOOD_kombucha,Black Tea and sucrose,sucr,Sucrose,sucr,cpd00076,5.0
+1156,FOOD_kombucha,Black Tea and sucrose,etoh,Ethanol,etoh,cpd00363,10.0
+1157,FOOD_kombucha,Black Tea and sucrose,mn2,Mn2+,mn2,cpd00030,100.0
+1158,FOOD_kombucha,Black Tea and sucrose,zn2,Zn2+,zn2,cpd00034,100.0
+1159,FOOD_kombucha,Black Tea and sucrose,so4,Sulfate,so4,cpd00048,100.0
+1160,FOOD_kombucha,Black Tea and sucrose,cu2,Cu2+,cu2,cpd00058,100.0
+1161,FOOD_kombucha,Black Tea and sucrose,ca2,Ca2+,ca2,cpd00063,100.0
+1162,FOOD_kombucha,Black Tea and sucrose,h,H+,h,cpd00067,100.0
+1163,FOOD_kombucha,Black Tea and sucrose,cl,Cl-,cl,cpd00099,100.0
+1164,FOOD_kombucha,Black Tea and sucrose,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1165,FOOD_kombucha,Black Tea and sucrose,k,K+,k,cpd00205,100.0
+1166,FOOD_kombucha,Black Tea and sucrose,mg2,Mg,mg2,cpd00254,100.0
+1167,FOOD_kombucha,Black Tea and sucrose,hg2,Hg2+,hg2,cpd00531,100.0
+1168,FOOD_kombucha,Black Tea and sucrose,na1,Na+,na1,cpd00971,100.0
+1169,FOOD_kombucha,Black Tea and sucrose,cd2,Cd2+,cd2,cpd01012,100.0
+1170,FOOD_kombucha,Black Tea and sucrose,aso4,Arsenate,aso4,cpd01048,100.0
+1171,FOOD_kombucha,Black Tea and sucrose,fe2,Fe2+,fe2,cpd10515,100.0
+1172,FOOD_kombucha,Black Tea and sucrose,fe3,fe3,fe3,cpd10516,100.0
+1173,FOOD_kombucha,Black Tea and sucrose,cro4,chromate,cro4,cpd11595,100.0
+1174,FOOD_kombucha,Black Tea and sucrose,mma,Methanamine,mma,cpd00187,3.0
+1175,FOOD_kombucha,Black Tea and sucrose,xan,Xanthine,xan,cpd00309,3.0
+1176,FOOD_kombucha,Black Tea and sucrose,co2,CO2,co2,cpd00011,10.0
+1177,FOOD_kombucha,Black Tea and sucrose,mobd,Molybdate,mobd,cpd11574,100.0
+1178,FOOD_cowmilk,Cow Milk,lcts,Lactose,lcts,cpd00208,125.0
+1179,FOOD_cowmilk,Cow Milk,pcreat,Phosphocreatine,pcreat,cpd01550,87.0
+1180,FOOD_cowmilk,Cow Milk,urea,Urea,urea,cpd00073,3.9
+1181,FOOD_cowmilk,Cow Milk,ala__L,L-alanine,ala_L,cpd00035,7.8876404494382
+1182,FOOD_cowmilk,Cow Milk,arg__L,L-Arginine,arg_L,cpd00051,5.52238805970149
+1183,FOOD_cowmilk,Cow Milk,asp__L,L-Aspartate,asp_L,cpd00041,12.5018782870023
+1184,FOOD_cowmilk,Cow Milk,cys__L,L-Cysteine,cys_L,cpd00084,0.643776824034335
+1185,FOOD_cowmilk,Cow Milk,glu__L,L-Glutamate,glu_L,cpd00023,35.6963229796778
+1186,FOOD_cowmilk,Cow Milk,gly,Glycine,gly,cpd00033,8.31224190755295
+1187,FOOD_cowmilk,Cow Milk,his__L,L-Histidine,his_L,cpd00119,4.69223332259104
+1188,FOOD_cowmilk,Cow Milk,ile__L,L-Isoleucine,ile_L,cpd00322,10.9018830525273
+1189,FOOD_cowmilk,Cow Milk,leu__L,L-Leucine,leu_L,cpd00107,16.4519326065411
+1190,FOOD_cowmilk,Cow Milk,lys__L,L-Lysine,lys_L,cpd00039,13.1609549216773
+1191,FOOD_cowmilk,Cow Milk,met__L,L-Methionine,met_L,cpd00060,4.35627638898197
+1192,FOOD_cowmilk,Cow Milk,phe__L,L-Phenylalanine,phe_L,cpd00066,7.08275319329257
+1193,FOOD_cowmilk,Cow Milk,pro__L,L-Proline,pro_L,cpd00129,23.0348301919569
+1194,FOOD_cowmilk,Cow Milk,ser__L,L-Serine,ser_L,cpd00054,14.1021981159007
+1195,FOOD_cowmilk,Cow Milk,thr__L,L-Threonine,thr_L,cpd00161,9.60376091336467
+1196,FOOD_cowmilk,Cow Milk,trp__L,L-Tryptophan,trp_L,cpd00065,1.40038192234246
+1197,FOOD_cowmilk,Cow Milk,tyr__L,L-Tyrosine,tyr_L,cpd00069,8.17925934102324
+1198,FOOD_cowmilk,Cow Milk,val__L,L-Valine,val_L,cpd00156,14.4259496372172
+1199,FOOD_cowmilk,Cow Milk,mn2,Mn2+,mn2,cpd00030,100.0
+1200,FOOD_cowmilk,Cow Milk,zn2,Zn2+,zn2,cpd00034,100.0
+1201,FOOD_cowmilk,Cow Milk,so4,Sulfate,so4,cpd00048,100.0
+1202,FOOD_cowmilk,Cow Milk,cu2,Cu2+,cu2,cpd00058,100.0
+1203,FOOD_cowmilk,Cow Milk,ca2,Ca2+,ca2,cpd00063,100.0
+1204,FOOD_cowmilk,Cow Milk,h,H+,h,cpd00067,100.0
+1205,FOOD_cowmilk,Cow Milk,cl,Cl-,cl,cpd00099,100.0
+1206,FOOD_cowmilk,Cow Milk,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1207,FOOD_cowmilk,Cow Milk,k,K+,k,cpd00205,100.0
+1208,FOOD_cowmilk,Cow Milk,mg2,Mg,mg2,cpd00254,100.0
+1209,FOOD_cowmilk,Cow Milk,hg2,Hg2+,hg2,cpd00531,100.0
+1210,FOOD_cowmilk,Cow Milk,na1,Na+,na1,cpd00971,100.0
+1211,FOOD_cowmilk,Cow Milk,cd2,Cd2+,cd2,cpd01012,100.0
+1212,FOOD_cowmilk,Cow Milk,aso4,Arsenate,aso4,cpd01048,100.0
+1213,FOOD_cowmilk,Cow Milk,fe2,Fe2+,fe2,cpd10515,100.0
+1214,FOOD_cowmilk,Cow Milk,fe3,fe3,fe3,cpd10516,100.0
+1215,FOOD_cowmilk,Cow Milk,cro4,chromate,cro4,cpd11595,100.0
+1216,FOOD_cowmilk,Cow Milk,nh4,NH3,nh4,cpd00013,100.0
+1217,FOOD_cowmilk,Cow Milk,co2,CO2,co2,cpd00011,0.5
+1218,FOOD_cowmilk,Cow Milk,mobd,Molybdate,mobd,cpd11574,100.0
+1219,FOOD_cowmilk,Cow Milk,o2,O2,o2,cpd00007,0.0
+1220,FOOD_cowmilk,Cow Milk,h2o,H2O,h2o,cpd00001,100.0
+1221,FOOD_cowmilk,Cow Milk,pi,Phosphate,pi,cpd00009,12.53
+1222,FOOD_cowmilk,Cow Milk,so4,Sulfate,so4,cpd00048,100.0
+1223,FOOD_cowmilk,Cow Milk,nh4,NH3,nh4,cpd00013,100.0
+1224,FOOD_cowmilk,Cow Milk,cro4,chromate,cro4,cpd11595,100.0
+1225,FOOD_HumanaPre,Humana Pre (from birth),lcts,Lactose,lcts,cpd00208,216.0
+1226,FOOD_HumanaPre,Humana Pre (from birth),gal,D-Galactose,gal,cpd00108,27.7
+1227,FOOD_HumanaPre,Humana Pre (from birth),chol,Choline,chol,cpd00098,1.923
+1228,FOOD_HumanaPre,Humana Pre (from birth),inost,L-Inositol,inost,cpd00121,0.5
+1229,FOOD_HumanaPre,Humana Pre (from birth),pcreat,Phosphocreatine,pcreat,cpd01550,50.0
+1230,FOOD_HumanaPre,Humana Pre (from birth),fol,Folate,fol,cpd00393,0.00023
+1231,FOOD_HumanaPre,Humana Pre (from birth),thm,Thiamine,thm,cpd00305,0.003
+1232,FOOD_HumanaPre,Humana Pre (from birth),ribflv,Riboflavin,ribflv,cpd00220,0.0034
+1233,FOOD_HumanaPre,Humana Pre (from birth),pant__R,PAN,pant_R,cpd00644,0.017
+1234,FOOD_HumanaPre,Humana Pre (from birth),nac,Niacin,nac,cpd00218,0.047
+1235,FOOD_HumanaPre,Humana Pre (from birth),btn,Biotin,btn,cpd00104,0.0008
+1236,FOOD_HumanaPre,Humana Pre (from birth),ala__L,L-alanine,ala_L,cpd00035,4.24719101123596
+1237,FOOD_HumanaPre,Humana Pre (from birth),arg__L,L-Arginine,arg_L,cpd00051,2.9735935706085
+1238,FOOD_HumanaPre,Humana Pre (from birth),asp__L,L-Aspartate,asp_L,cpd00041,6.73178061607814
+1239,FOOD_HumanaPre,Humana Pre (from birth),cys__L,L-Cysteine,cys_L,cpd00084,0.346649059095411
+1240,FOOD_HumanaPre,Humana Pre (from birth),glu__L,L-Glutamate,glu_L,cpd00023,19.2210969890573
+1241,FOOD_HumanaPre,Humana Pre (from birth),gly,Glycine,gly,cpd00033,4.47582256560543
+1242,FOOD_HumanaPre,Humana Pre (from birth),his__L,L-Histidine,his_L,cpd00119,2.52658717370287
+1243,FOOD_HumanaPre,Humana Pre (from birth),ile__L,L-Isoleucine,ile_L,cpd00322,5.8702447205916
+1244,FOOD_HumanaPre,Humana Pre (from birth),leu__L,L-Leucine,leu_L,cpd00107,8.85873294198369
+1245,FOOD_HumanaPre,Humana Pre (from birth),lys__L,L-Lysine,lys_L,cpd00039,7.0866680347493
+1246,FOOD_HumanaPre,Humana Pre (from birth),met__L,L-Methionine,met_L,cpd00060,2.34568728637491
+1247,FOOD_HumanaPre,Humana Pre (from birth),phe__L,L-Phenylalanine,phe_L,cpd00066,3.81379018100369
+1248,FOOD_HumanaPre,Humana Pre (from birth),pro__L,L-Proline,pro_L,cpd00129,12.4033701033614
+1249,FOOD_HumanaPre,Humana Pre (from birth),ser__L,L-Serine,ser_L,cpd00054,7.59349129317728
+1250,FOOD_HumanaPre,Humana Pre (from birth),thr__L,L-Threonine,thr_L,cpd00161,5.17125587642713
+1251,FOOD_HumanaPre,Humana Pre (from birth),trp__L,L-Tryptophan,trp_L,cpd00065,0.754051804338246
+1252,FOOD_HumanaPre,Humana Pre (from birth),tyr__L,L-Tyrosine,tyr_L,cpd00069,4.40421656824328
+1253,FOOD_HumanaPre,Humana Pre (from birth),val__L,L-Valine,val_L,cpd00156,7.76781903542467
+1254,FOOD_HumanaPre,Humana Pre (from birth),mn2,Mn2+,mn2,cpd00030,100.0
+1255,FOOD_HumanaPre,Humana Pre (from birth),zn2,Zn2+,zn2,cpd00034,100.0
+1256,FOOD_HumanaPre,Humana Pre (from birth),so4,Sulfate,so4,cpd00048,100.0
+1257,FOOD_HumanaPre,Humana Pre (from birth),cu2,Cu2+,cu2,cpd00058,100.0
+1258,FOOD_HumanaPre,Humana Pre (from birth),ca2,Ca2+,ca2,cpd00063,100.0
+1259,FOOD_HumanaPre,Humana Pre (from birth),h,H+,h,cpd00067,100.0
+1260,FOOD_HumanaPre,Humana Pre (from birth),cl,Cl-,cl,cpd00099,100.0
+1261,FOOD_HumanaPre,Humana Pre (from birth),cobalt2,Co2+,cobalt2,cpd00149,100.0
+1262,FOOD_HumanaPre,Humana Pre (from birth),k,K+,k,cpd00205,100.0
+1263,FOOD_HumanaPre,Humana Pre (from birth),mg2,Mg,mg2,cpd00254,100.0
+1264,FOOD_HumanaPre,Humana Pre (from birth),hg2,Hg2+,hg2,cpd00531,100.0
+1265,FOOD_HumanaPre,Humana Pre (from birth),na1,Na+,na1,cpd00971,100.0
+1266,FOOD_HumanaPre,Humana Pre (from birth),cd2,Cd2+,cd2,cpd01012,100.0
+1267,FOOD_HumanaPre,Humana Pre (from birth),aso4,Arsenate,aso4,cpd01048,100.0
+1268,FOOD_HumanaPre,Humana Pre (from birth),fe2,Fe2+,fe2,cpd10515,100.0
+1269,FOOD_HumanaPre,Humana Pre (from birth),fe3,fe3,fe3,cpd10516,100.0
+1270,FOOD_HumanaPre,Humana Pre (from birth),cro4,chromate,cro4,cpd11595,100.0
+1271,FOOD_HumanaPre,Humana Pre (from birth),nh4,NH3,nh4,cpd00013,100.0
+1272,FOOD_HumanaPre,Humana Pre (from birth),co2,CO2,co2,cpd00011,0.5
+1273,FOOD_HumanaPre,Humana Pre (from birth),mobd,Molybdate,mobd,cpd11574,100.0
+1274,FOOD_HumanaPre,Humana Pre (from birth),o2,O2,o2,cpd00007,0.0
+1275,FOOD_HumanaPre,Humana Pre (from birth),h2o,H2O,h2o,cpd00001,100.0
+1276,FOOD_HumanaPre,Humana Pre (from birth),pi,Phosphate,pi,cpd00009,12.53
+1277,FOOD_HumanaPre,Humana Pre (from birth),so4,Sulfate,so4,cpd00048,100.0
+1278,FOOD_HumanaPre,Humana Pre (from birth),nh4,NH3,nh4,cpd00013,100.0
+1279,FOOD_HumanaPre,Humana Pre (from birth),cro4,chromate,cro4,cpd11595,100.0
+1280,FOOD_rumen,Feed of cows,cellb,Cellobiose,cellb,cpd00158,50.0
+1281,FOOD_rumen,Feed of cows,nh4,NH3,nh4,cpd00013,5.0
+1282,FOOD_rumen,Feed of cows,urea,Urea,urea,cpd00073,5.0
+1283,FOOD_rumen,Feed of cows,mn2,Mn2+,mn2,cpd00030,100.0
+1284,FOOD_rumen,Feed of cows,zn2,Zn2+,zn2,cpd00034,100.0
+1285,FOOD_rumen,Feed of cows,so4,Sulfate,so4,cpd00048,100.0
+1286,FOOD_rumen,Feed of cows,cu2,Cu2+,cu2,cpd00058,100.0
+1287,FOOD_rumen,Feed of cows,ca2,Ca2+,ca2,cpd00063,100.0
+1288,FOOD_rumen,Feed of cows,h,H+,h,cpd00067,100.0
+1289,FOOD_rumen,Feed of cows,cl,Cl-,cl,cpd00099,100.0
+1290,FOOD_rumen,Feed of cows,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1291,FOOD_rumen,Feed of cows,k,K+,k,cpd00205,100.0
+1292,FOOD_rumen,Feed of cows,mg2,Mg,mg2,cpd00254,100.0
+1293,FOOD_rumen,Feed of cows,hg2,Hg2+,hg2,cpd00531,100.0
+1294,FOOD_rumen,Feed of cows,na1,Na+,na1,cpd00971,100.0
+1295,FOOD_rumen,Feed of cows,cd2,Cd2+,cd2,cpd01012,100.0
+1296,FOOD_rumen,Feed of cows,aso4,Arsenate,aso4,cpd01048,100.0
+1297,FOOD_rumen,Feed of cows,fe2,Fe2+,fe2,cpd10515,100.0
+1298,FOOD_rumen,Feed of cows,fe3,fe3,fe3,cpd10516,100.0
+1299,FOOD_rumen,Feed of cows,cro4,chromate,cro4,cpd11595,100.0
+1300,FOOD_rumen,Feed of cows,nh4,NH3,nh4,cpd00013,100.0
+1301,FOOD_rumen,Feed of cows,co2,CO2,co2,cpd00011,0.5
+1302,FOOD_rumen,Feed of cows,mobd,Molybdate,mobd,cpd11574,100.0
+1303,FOOD_rumen,Feed of cows,h2o,H2O,h2o,cpd00001,100.0
+1304,FOOD_rumen,Feed of cows,pi,Phosphate,pi,cpd00009,12.53
+1305,FOOD_rumen,Feed of cows,h2s,H2S,h2s,cpd00239,10.0
+1306,FOOD_rumen,Feed of cows,cro4,chromate,cro4,cpd11595,100.0
+1307,FOOD_wine,Resources for O. oeni in wine fermentation,mal__L,L-Malate,mal_L,cpd00130,15.0
+1308,FOOD_wine,Resources for O. oeni in wine fermentation,cit,Citrate,cit,cpd00137,10.0
+1309,FOOD_wine,Resources for O. oeni in wine fermentation,etoh,ethanol,etoh,cpd00363,5.0
+1310,FOOD_wine,Resources for O. oeni in wine fermentation,glc__D,D-Glucose,glc_D,cpd00027,2.0
+1311,FOOD_wine,Resources for O. oeni in wine fermentation,fru,D-Fructose,fru,cpd00082,2.0
+1312,FOOD_wine,Resources for O. oeni in wine fermentation,sucr,Sucrose,sucr,cpd00076,2.0
+1313,FOOD_wine,Resources for O. oeni in wine fermentation,mn2,Mn2+,mn2,cpd00030,100.0
+1314,FOOD_wine,Resources for O. oeni in wine fermentation,zn2,Zn2+,zn2,cpd00034,100.0
+1315,FOOD_wine,Resources for O. oeni in wine fermentation,so4,Sulfate,so4,cpd00048,100.0
+1316,FOOD_wine,Resources for O. oeni in wine fermentation,cu2,Cu2+,cu2,cpd00058,100.0
+1317,FOOD_wine,Resources for O. oeni in wine fermentation,ca2,Ca2+,ca2,cpd00063,100.0
+1318,FOOD_wine,Resources for O. oeni in wine fermentation,h,H+,h,cpd00067,100.0
+1319,FOOD_wine,Resources for O. oeni in wine fermentation,cl,Cl-,cl,cpd00099,100.0
+1320,FOOD_wine,Resources for O. oeni in wine fermentation,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1321,FOOD_wine,Resources for O. oeni in wine fermentation,k,K+,k,cpd00205,100.0
+1322,FOOD_wine,Resources for O. oeni in wine fermentation,mg2,Mg,mg2,cpd00254,100.0
+1323,FOOD_wine,Resources for O. oeni in wine fermentation,hg2,Hg2+,hg2,cpd00531,100.0
+1324,FOOD_wine,Resources for O. oeni in wine fermentation,na1,Na+,na1,cpd00971,100.0
+1325,FOOD_wine,Resources for O. oeni in wine fermentation,cd2,Cd2+,cd2,cpd01012,100.0
+1326,FOOD_wine,Resources for O. oeni in wine fermentation,aso4,Arsenate,aso4,cpd01048,100.0
+1327,FOOD_wine,Resources for O. oeni in wine fermentation,fe2,Fe2+,fe2,cpd10515,100.0
+1328,FOOD_wine,Resources for O. oeni in wine fermentation,fe3,fe3,fe3,cpd10516,100.0
+1329,FOOD_wine,Resources for O. oeni in wine fermentation,cro4,chromate,cro4,cpd11595,100.0
+1330,FOOD_wine,Resources for O. oeni in wine fermentation,nh4,NH3,nh4,cpd00013,100.0
+1331,FOOD_wine,Resources for O. oeni in wine fermentation,co2,CO2,co2,cpd00011,0.5
+1332,FOOD_wine,Resources for O. oeni in wine fermentation,mobd,Molybdate,mobd,cpd11574,100.0
+1333,FOOD_wine,Resources for O. oeni in wine fermentation,h2o,H2O,h2o,cpd00001,100.0
+1334,FOOD_wine,Resources for O. oeni in wine fermentation,pi,Phosphate,pi,cpd00009,12.53
+1335,FOOD_wine,Resources for O. oeni in wine fermentation,h2s,H2S,h2s,cpd00239,10.0
+1336,FOOD_wine,Resources for O. oeni in wine fermentation,cro4,chromate,cro4,cpd11595,100.0
+1337,FOOD_wine,Resources for O. oeni in wine fermentation,nh4,NH3,nh4,cpd00013,5.0
+1338,FOOD_wine,Resources for O. oeni in wine fermentation,ala__L,L-Alanine,ala_L,cpd00035,0.59870931538
+1339,FOOD_wine,Resources for O. oeni in wine fermentation,arg__L,L-Arginine,arg_L,cpd00051,0.3861021814
+1340,FOOD_wine,Resources for O. oeni in wine fermentation,asp__L,L-Aspartate,asp_L,cpd00041,0.91987978963
+1341,FOOD_wine,Resources for O. oeni in wine fermentation,cys__L,L-Cysteine,cys_L,cpd00084,0.05829207921
+1342,FOOD_wine,Resources for O. oeni in wine fermentation,glu__L,L-Glutamate,glu_L,cpd00023,2.52972127804
+1343,FOOD_wine,Resources for O. oeni in wine fermentation,gly,Glycine,gly,cpd00033,0.43728362184
+1344,FOOD_wine,Resources for O. oeni in wine fermentation,his__L,L-Histidine,his_L,cpd00119,0.30599871134
+1345,FOOD_wine,Resources for O. oeni in wine fermentation,ile__L,L-Isoleucine,ile_L,cpd00322,0.71884908537
+1346,FOOD_wine,Resources for O. oeni in wine fermentation,leu__L,L-Leucine,leu_L,cpd00107,1.13816310976
+1347,FOOD_wine,Resources for O. oeni in wine fermentation,lys__L,L-Lysine,lys_L,cpd00039,0.89273597811
+1348,FOOD_wine,Resources for O. oeni in wine fermentation,met__L,L-Methionine,met_L,cpd00060,0.28445710456
+1349,FOOD_wine,Resources for O. oeni in wine fermentation,phe__L,L-Phenylalanine,phe_L,cpd00066,0.50161016949
+1350,FOOD_wine,Resources for O. oeni in wine fermentation,pro__L,L-Proline,pro_L,cpd00129,1.46513466551
+1351,FOOD_wine,Resources for O. oeni in wine fermentation,ser__L,L-Serine,ser_L,cpd00054,0.87603235014
+1352,FOOD_wine,Resources for O. oeni in wine fermentation,thr__L,L-Threonine,thr_L,cpd00161,0.60115869018
+1353,FOOD_wine,Resources for O. oeni in wine fermentation,trp__L,L-Tryptophan,trp_L,cpd00065,0.10025954946
+1354,FOOD_wine,Resources for O. oeni in wine fermentation,tyr__L,L-Tyrosine,tyr_L,cpd00069,0.46642935982
+1355,FOOD_wine,Resources for O. oeni in wine fermentation,val__L,L-Valine,val_L,cpd00156,0.92303159693
+1356,FOOD_wine,Resources for O. oeni in wine fermentation,o2,O2,o2,cpd00007,2.0
+1357,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,h2o,H2O,h2o,cpd00001,1000.0
+1358,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,co2,CO2,co2,cpd00011,50.0
+1359,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,h2,H2,h2,cpd11640,100.0
+1360,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,pi,Phosphate,pi,cpd00009,100.0
+1361,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,mn2,Mn2+,mn2,cpd00030,100.0
+1362,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,zn2,Zn2+,zn2,cpd00034,100.0
+1363,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,so4,Sulfate,so4,cpd00048,100.0
+1364,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,cu2,Cu2+,cu2,cpd00058,100.0
+1365,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,ca2,Ca2+,ca2,cpd00063,100.0
+1366,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,h,H+,h,cpd00067,100.0
+1367,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,cl,Cl-,cl,cpd00099,100.0
+1368,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1369,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,k,K+,k,cpd00205,100.0
+1370,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,mg2,Mg,mg2,cpd00254,100.0
+1371,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,hg2,Hg2+,hg2,cpd00531,100.0
+1372,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,na1,Na+,na1,cpd00971,100.0
+1373,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,cd2,Cd2+,cd2,cpd01012,100.0
+1374,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,aso4,Arsenate,aso4,cpd01048,100.0
+1375,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,fe2,Fe2+,fe2,cpd10515,100.0
+1376,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,fe3,fe3,fe3,cpd10516,0.01
+1377,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,cro4,chromate,cro4,cpd11595,100.0
+1378,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,nh4,NH3,nh4,cpd00013,100.0
+1379,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,mobd,Molybdate,mobd,cpd11574,100.0
+1380,MM_anaerobic_CO2_H2,Mininmal medium for methanogenesis from H2 and CO2,ni2,Ni2+,ni2,cpd00244,100.0
+1381,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,h2o,H2O,h2o,cpd00001,1000.0
+1382,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,ac,Acetate,ac,cpd00029,50.0
+1383,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,h2,H2,h2,cpd11640,100.0
+1384,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,pi,Phosphate,pi,cpd00009,100.0
+1385,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,mn2,Mn2+,mn2,cpd00030,100.0
+1386,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,zn2,Zn2+,zn2,cpd00034,100.0
+1387,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,so4,Sulfate,so4,cpd00048,100.0
+1388,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,cu2,Cu2+,cu2,cpd00058,100.0
+1389,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,ca2,Ca2+,ca2,cpd00063,100.0
+1390,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,h,H+,h,cpd00067,100.0
+1391,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,cl,Cl-,cl,cpd00099,100.0
+1392,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,cobalt2,Co2+,cobalt2,cpd00149,100.0
+1393,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,k,K+,k,cpd00205,100.0
+1394,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,mg2,Mg,mg2,cpd00254,100.0
+1395,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,hg2,Hg2+,hg2,cpd00531,100.0
+1396,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,na1,Na+,na1,cpd00971,100.0
+1397,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,cd2,Cd2+,cd2,cpd01012,100.0
+1398,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,aso4,Arsenate,aso4,cpd01048,100.0
+1399,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,fe2,Fe2+,fe2,cpd10515,100.0
+1400,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,fe3,fe3,fe3,cpd10516,0.01
+1401,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,cro4,chromate,cro4,cpd11595,100.0
+1402,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,nh4,NH3,nh4,cpd00013,100.0
+1403,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,mobd,Molybdate,mobd,cpd11574,100.0
+1404,MM_anaerobic_Acetate_H2,Mininmal medium for methanogenesis from H2 and Acetate,ni2,Ni2+,ni2,cpd00244,100.0
