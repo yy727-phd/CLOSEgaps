@@ -3,7 +3,7 @@
 ## Abstract
 Incomplete knowledge of metabolic processes hinders the accuracy of GEnome-scale Metabolic models (GEMs), which in turn impedes advancements in systems biology and metabolic engineering. Existing gap-filling methods typically rely on phenotypic data to minimize the disparity between computational predictions and experimental results. However, there is still a lack of an automatic and precise gap-filling method for initial state GEMs before experimental data and annotated genomes become available. In this study, we introduce CLOSEgaps, a deep learning-driven tool that addresses the gap-filling issue by modeling it as a hyperedge prediction problem within GEMs. Specifically, CLOSEgaps maps metabolic networks as hypergraphs and learns their hyper-topology features to identify missing reactions and gaps by leveraging hypothetical reactions. This innovative approach allows for the characterization and curation of both known and hypothetical reactions within metabolic networks. Extensive results demonstrate that CLOSEgaps accurately gap-filling over $96\%$ of artificially introduced gaps for various GEMs. Furthermore, CLOSEgaps enhances phenotypic predictions for $24$ GEMs and also finds a notable improvement in producing four crucial metabolites (Lactate, Ethanol, Propionate, and Succinate) in two organisms. As a broadly applicable solution for any GEM, CLOSEgaps represents a promising model to automate the gap-filling process and uncover missing connections between reactions and observed metabolic phenotypes.
 
-![image](./img/Fig1_new.pdf)
+![image](./img/Fig1_new.png)
 
 ## Dependencies
 The package depends on the Python==3.7.13:
