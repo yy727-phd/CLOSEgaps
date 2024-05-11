@@ -24,7 +24,7 @@ class CLOSEgaps(nn.Module):
         self.hypergraph_conv = hnn.HypergraphConv(self.in_channel, conv_dim, heads=head, use_attention=use_attention,
                                                   dropout=p)
         if L > 1:
-            self.hypergraph_conv_list = []
+            self.hypergraph_conv_list = nn.ModuleList()
             for l in range(L - 1):
                 self.hypergraph_conv_list.append(
                     hnn.HypergraphConv(head * conv_dim, conv_dim, heads=head, use_attention=use_attention, dropout=p))
@@ -32,7 +32,7 @@ class CLOSEgaps(nn.Module):
         if use_attention:
             self.hyper_attr_liner = nn.Linear(input_num, self.in_channel)
             if L > 1:
-                self.hyperedge_attr_list = []
+                self.hyperedge_attr_list = nn.ModuleList()
                 for l in range(L - 1):
                     self.hyperedge_attr_list.append(nn.Linear(input_num, head * conv_dim))
         self.hyperedge_linear = nn.Linear(conv_dim * head, 2)
