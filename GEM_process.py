@@ -1,14 +1,17 @@
+import argparse
 import os
 import pandas as pd
 import cobra
 
-from process_data import change_metaid_to_metaname, change_metabolites_to_smiles2, change_arrow
+from process_data import change_metaid_to_metaname, change_arrow
 import numpy as np
 from rdkit import Chem
 from rdkit.Chem.Lipinski import HeavyAtomCount
 
-import tqdm
-
+def parse():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--GEM_name", type=str, default="iMM904")
+    return parser.parse_args()
 
 def get_filenames(path):
     return sorted(os.listdir(path))
@@ -27,12 +30,6 @@ def remove_rxn(model, name_list):
 
 def get_data(path, sample):
     model = cobra.io.read_sbml_model(path + '/' + sample)
-    # biomass = linear_reaction_coefficients(model)
-    # model.remove_reactions(biomass, remove_orphans=True)
-    # stoichiometric_matrix = create_stoichiometric_matrix(model)
-    # incidence_matrix = np.abs(stoichiometric_matrix) > 0
-    # remove_rxn_index = np.sum(incidence_matrix, axis=0) <= 1
-    # model.remove_reactions(model.reactions[remove_rxn_index], remove_orphans=True)
     return model
 
 
@@ -78,8 +75,6 @@ def remove_right_empty(path='../iMM904', output_rxn_file=None, output_meta_file=
 
 
 def get_chebi_link(metas, output_meta_chebi_file=None):
-    chebi_meta = []
-    final_meta = pd.DataFrame([], columns=['name', 'chebi'])
     valid_metas = metas[metas['links'].apply(lambda x: 'chebi' in x)]
     valid_metas.reset_index()
     valid_metas_re = valid_metas.reset_index(drop=True)
@@ -96,27 +91,7 @@ def get_chebi_link(metas, output_meta_chebi_file=None):
     return valid_metas_re
 
 
-def get_smiles(all_metas, sdf_file='../sdf_process/output.txt', output_smiles_file=None):
-    # all_metas = pd.read_csv('process/iMM904_meta_chebi.csv')
-    # metas_name_id = list(all_metas.loc[:, 'name_id'])
-    # all_metas['chebi'] = all_metas['chebi']
-    # id_list = list(all_metas.loc[:, 'chebi'])
-    # f = open(sdf_file, 'r')
-    # result = []
-    # cur = []
-    # for line in f.readlines():
-    #     if 'ChEBI ID' in line:
-    #         cur.append('CHEBI:' + line.split(':')[-1].replace('\n', ''))
-    #     elif 'ChEBI Name' in line:
-    #         cur.append(line.split(':')[-1].replace('\n', ''))
-    #     elif 'SMILES' in line:
-    #         cur.append(line.split(':')[-1].replace('\n', ''))
-    #     elif '----' in line:
-    #         if len(cur) == 3:
-    #             result.append(cur)
-    #         cur = []
-    # f.close()
-    # data = pd.DataFrame(result, columns=['ChEBI_ID', 'name', 'smiles'])
+def get_smiles(all_metas, output_smiles_file=None):
     data = pd.read_csv('./data/pool/cleaned_chebi.csv')
     smiles = {'name': [], 'smiles': [], 'name_id': []}
     for i, row in all_metas.iterrows():
@@ -158,7 +133,9 @@ def cout_atom_number(metas, output_meta_count_file=None):
 
 
 if __name__ == '__main__':
-    gem_name = 'iML1515'
+    args = parse()
+    gem_name = args.GEM_name
+    print(gem_name)
     rxn_list_no_empty, all_metas = remove_right_empty(path=f'./data/{gem_name}',
                                                       output_rxn_file=f'./data/{gem_name}/{gem_name}_rxn_no_empty.csv')
     all_metas_name = all_metas.loc[:, ['name']]
@@ -180,6 +157,3 @@ if __name__ == '__main__':
     pos_rxns = change_arrow(pos_rxns_names, filter_name=meta_smiles_count['name'].tolist(),
                             save_file=f'./data/{gem_name}/{gem_name}_rxn_name_list.txt')
 
-    # pos_rxns_smiles = change_metabolites_to_smiles2(pos_rxns, meta_smiles_count)
-    # pos_smiles_sample = pd.DataFrame({'rxn_smiles': pos_rxns_smiles})
-    # pos_smiles_sample.to_csv('./data/GEM/sdf_process/recon3D_rxn_smiles.txt', index=False)

@@ -43,7 +43,7 @@ For example,
 ## Processing GEMs
 Mapping GEMs to SMILES with public database:
 ```bash
-$ python GEM_process.py --GEM_name yeast8.5
+$ python GEM_process.py --GEM_name iML1515
 ```
 
 ## Running the Experiment

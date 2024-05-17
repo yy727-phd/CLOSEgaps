@@ -120,7 +120,57 @@ def change_metaid_to_metaname(rxns, df_metas_names):
         metas_new = []
         for m in metas:
             print(m)
+            m = m.split(' ')[-1] if ' ' in m else m
             metas_new.append(df_metas_names[df_metas_names['name_id'] == m].name.values[0])
         rxn_name = combine_meta_rxns(reactions_index[i], metas_new, reactants_nums[i], reactants_direction[i])
         rxn_names.append(rxn_name)
     return rxn_names
+
+
+def change_arrow(rxns, filter_name=None, save_file=None):
+    results = []
+    for rxn in rxns:
+        if '=> ' in rxn:
+            l, r = rxn.split('=> ')
+            l, r = l.strip(), r.strip()
+            if len(r) == 0:
+                continue
+            if '<=>' in rxn:
+                l, r = rxn.split('<=>')
+                l, r = l.strip(), r.strip()
+                reaction = l + ' => ' + r
+                if reaction not in results:
+                    results.append(reaction)
+                reaction = r + ' => ' + l
+                if reaction not in results:
+                    results.append(reaction)
+            else:
+                if rxn not in results:
+                    results.append(rxn)
+    if filter_name is not None:
+        filter_rxn = []
+        for rxn in results:
+            rxn_index, rxn_metas = [], []
+            tem_rxn = rxn.replace(' => ', ' + ')
+            metas = tem_rxn.split(' + ')
+            for m in metas:
+                a = re.findall('\d+\.?\d*', m)
+                b = m.split(' ')
+                if len(a) and a[0] == b[0]:
+                    rxn_metas.append(' '.join(b[1:]))
+                else:
+                    rxn_metas.append(m)
+            temp = True
+            for meta in rxn_metas:
+                if meta not in filter_name:
+                    temp = False
+                    break
+            if not temp:
+                continue
+            filter_rxn.append(rxn)
+        results = filter_rxn
+    if save_file is not None:
+        with open(save_file, 'w') as f:
+            for r in results:
+                f.write(r + '\n')
+    return results
