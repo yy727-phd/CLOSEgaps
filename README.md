@@ -90,4 +90,7 @@ All simulation parameters are defined in the `input_parameters.txt`.
 2. Among the top candidate reactions with the highest likelihood, find out the minimum set that leads to new metabolic secretions that are potentially missing in the input GEMs (function validate() in `fba` folder's `main.py`). The second program is time-consuming if the number of top candidates added to the input GEMs for simulations is too large (this parameter is controlled by `NUM_GAPFILLED_RXNS_TO_ADD` in the `input_parameters.txt`).
 
 ## Pretrained Model
-You can access the pretrained model for CLOSEgaps at the following link, CLOSEgaps Pretrained Model: https://zenodo.org/records/13691968. Feel free to download and use it for testing and further experimentation.
+You can access the pretrained model for CLOSEgaps at the following link: https://zenodo.org/records/13691968. Feel free to download and use it for testing and further experimentation.
+
+## Supporting Data
+The supporting data for our model is available at: https://zenodo.org/records/13683274. You can use this data to replicate our results.
